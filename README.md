@@ -20,8 +20,9 @@ not covered by this licence.
 
 - **Format:** USDZ, Y-up, metres, body facing +Z, the body's left on +X.
 - **Rig:** every file carries the same 237-joint skeleton (from Z-Biomechanics) and a baked
-  2-second bodyweight squat at 24 fps. The rig's constraints are baked to keyframes, so any
-  USD player shows the same motion.
+  2-second bodyweight squat at 24 fps. Frame 0 is the standing pose with arms at the sides
+  (what a paused player shows); the arms rise forward as the squat starts. The rig's
+  constraints are baked to keyframes, so any USD player shows the same motion.
 - **Skinning:** muscle and fascia vertices follow their four nearest bones. That is a first
   pass: muscles stretch but don't bulge or slide.
 - **Detail:** geometry reduced to 25% of the source triangle count.
