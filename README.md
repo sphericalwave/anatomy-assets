@@ -25,8 +25,10 @@ not covered by this licence.
 - **Skinning:** muscle and fascia vertices follow their four nearest bones. That is a first
   pass: muscles stretch but don't bulge or slide.
 - **Detail:** geometry reduced to 25% of the source triangle count.
-- **Names:** prims are named `<id>__<side>`, e.g. `psoas_major__l`, `femur__r`. Structures
-  outside the anatomy catalog are `za_<name>`.
+- **Names:** each structure's transform and its mesh are both named `<id>__<side>`, e.g.
+  `psoas_major__l`, `femur__r`. Structures outside the anatomy catalog are `za_<name>`.
+  RealityKit merges the skinned meshes of a file into one model and keys each part by
+  the mesh name, so the parts keep these names.
 
 ## Credits
 

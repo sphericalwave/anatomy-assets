@@ -2,12 +2,12 @@
  "license": "CC BY-SA 4.0",
  "detail": 0.25,
  "files": {
-  "skeleton": 7562344,
-  "fascia": 839624,
-  "muscles-trunk": 12918833,
-  "muscles-lower-limb": 7318254,
-  "muscles-upper-limb": 3136990,
-  "muscles-head-neck": 5485292
+  "skeleton": 7560473,
+  "fascia": 839341,
+  "muscles-trunk": 12918053,
+  "muscles-lower-limb": 7317138,
+  "muscles-upper-limb": 3136244,
+  "muscles-head-neck": 5484011
  },
  "prims": [
   {
