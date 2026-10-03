@@ -1,0 +1,7520 @@
+{
+ "license": "CC BY-SA 4.0",
+ "detail": 0.25,
+ "files": {
+  "skeleton": 7562344,
+  "fascia": 839624,
+  "muscles-trunk": 12918833,
+  "muscles-lower-limb": 7318254,
+  "muscles-upper-limb": 3136990,
+  "muscles-head-neck": 5485292
+ },
+ "prims": [
+  {
+   "prim": "za_arytenoid_cartilage__l",
+   "id": "za_arytenoid_cartilage",
+   "kind": "other",
+   "side": "l",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Arytenoid cartilage.l"
+  },
+  {
+   "prim": "za_arytenoid_cartilage__r",
+   "id": "za_arytenoid_cartilage",
+   "kind": "other",
+   "side": "r",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Arytenoid cartilage.r"
+  },
+  {
+   "prim": "vertebra_c1",
+   "id": "vertebra_c1",
+   "kind": "bone",
+   "side": "",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Atlas (C1)"
+  },
+  {
+   "prim": "coccyx",
+   "id": "coccyx",
+   "kind": "bone",
+   "side": "",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Coccyx"
+  },
+  {
+   "prim": "za_costal_cartilage_of_10th_rib__l",
+   "id": "za_costal_cartilage_of_10th_rib",
+   "kind": "other",
+   "side": "l",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Costal cartilage of 10th rib.l"
+  },
+  {
+   "prim": "za_costal_cartilage_of_10th_rib__r",
+   "id": "za_costal_cartilage_of_10th_rib",
+   "kind": "other",
+   "side": "r",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Costal cartilage of 10th rib.r"
+  },
+  {
+   "prim": "za_costal_cartilage_of_1st_rib__l",
+   "id": "za_costal_cartilage_of_1st_rib",
+   "kind": "other",
+   "side": "l",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Costal cartilage of 1st rib.l"
+  },
+  {
+   "prim": "za_costal_cartilage_of_1st_rib__r",
+   "id": "za_costal_cartilage_of_1st_rib",
+   "kind": "other",
+   "side": "r",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Costal cartilage of 1st rib.r"
+  },
+  {
+   "prim": "za_costal_cartilage_of_2nd_rib__l",
+   "id": "za_costal_cartilage_of_2nd_rib",
+   "kind": "other",
+   "side": "l",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Costal cartilage of 2nd rib.l"
+  },
+  {
+   "prim": "za_costal_cartilage_of_2nd_rib__r",
+   "id": "za_costal_cartilage_of_2nd_rib",
+   "kind": "other",
+   "side": "r",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Costal cartilage of 2nd rib.r"
+  },
+  {
+   "prim": "za_costal_cartilage_of_3rd_rib__l",
+   "id": "za_costal_cartilage_of_3rd_rib",
+   "kind": "other",
+   "side": "l",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Costal cartilage of 3rd rib.l"
+  },
+  {
+   "prim": "za_costal_cartilage_of_3rd_rib__r",
+   "id": "za_costal_cartilage_of_3rd_rib",
+   "kind": "other",
+   "side": "r",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Costal cartilage of 3rd rib.r"
+  },
+  {
+   "prim": "za_costal_cartilage_of_4th_rib__l",
+   "id": "za_costal_cartilage_of_4th_rib",
+   "kind": "other",
+   "side": "l",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Costal cartilage of 4th rib.l"
+  },
+  {
+   "prim": "za_costal_cartilage_of_4th_rib__r",
+   "id": "za_costal_cartilage_of_4th_rib",
+   "kind": "other",
+   "side": "r",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Costal cartilage of 4th rib.r"
+  },
+  {
+   "prim": "za_costal_cartilage_of_5th_rib__l",
+   "id": "za_costal_cartilage_of_5th_rib",
+   "kind": "other",
+   "side": "l",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Costal cartilage of 5th rib.l"
+  },
+  {
+   "prim": "za_costal_cartilage_of_5th_rib__r",
+   "id": "za_costal_cartilage_of_5th_rib",
+   "kind": "other",
+   "side": "r",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Costal cartilage of 5th rib.r"
+  },
+  {
+   "prim": "za_costal_cartilage_of_6th_rib__l",
+   "id": "za_costal_cartilage_of_6th_rib",
+   "kind": "other",
+   "side": "l",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Costal cartilage of 6th rib.l"
+  },
+  {
+   "prim": "za_costal_cartilage_of_6th_rib__r",
+   "id": "za_costal_cartilage_of_6th_rib",
+   "kind": "other",
+   "side": "r",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Costal cartilage of 6th rib.r"
+  },
+  {
+   "prim": "za_costal_cartilage_of_7th_rib__l",
+   "id": "za_costal_cartilage_of_7th_rib",
+   "kind": "other",
+   "side": "l",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Costal cartilage of 7th rib.l"
+  },
+  {
+   "prim": "za_costal_cartilage_of_7th_rib__r",
+   "id": "za_costal_cartilage_of_7th_rib",
+   "kind": "other",
+   "side": "r",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Costal cartilage of 7th rib.r"
+  },
+  {
+   "prim": "za_costal_cartilage_of_8th_rib__l",
+   "id": "za_costal_cartilage_of_8th_rib",
+   "kind": "other",
+   "side": "l",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Costal cartilage of 8th rib.l"
+  },
+  {
+   "prim": "za_costal_cartilage_of_8th_rib__r",
+   "id": "za_costal_cartilage_of_8th_rib",
+   "kind": "other",
+   "side": "r",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Costal cartilage of 8th rib.r"
+  },
+  {
+   "prim": "za_costal_cartilage_of_9th_rib__l",
+   "id": "za_costal_cartilage_of_9th_rib",
+   "kind": "other",
+   "side": "l",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Costal cartilage of 9th rib.l"
+  },
+  {
+   "prim": "za_costal_cartilage_of_9th_rib__r",
+   "id": "za_costal_cartilage_of_9th_rib",
+   "kind": "other",
+   "side": "r",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Costal cartilage of 9th rib.r"
+  },
+  {
+   "prim": "inferior_nasal_concha__l",
+   "id": "inferior_nasal_concha",
+   "kind": "bone",
+   "side": "l",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Inferior nasal concha bone.l"
+  },
+  {
+   "prim": "inferior_nasal_concha__r",
+   "id": "inferior_nasal_concha",
+   "kind": "bone",
+   "side": "r",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Inferior nasal concha bone.r"
+  },
+  {
+   "prim": "intermediate_cuneiform__l",
+   "id": "intermediate_cuneiform",
+   "kind": "bone",
+   "side": "l",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Intermediate cuneiform bone.l"
+  },
+  {
+   "prim": "intermediate_cuneiform__r",
+   "id": "intermediate_cuneiform",
+   "kind": "bone",
+   "side": "r",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Intermediate cuneiform bone.r"
+  },
+  {
+   "prim": "lateral_cuneiform__l",
+   "id": "lateral_cuneiform",
+   "kind": "bone",
+   "side": "l",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Lateral cuneiform bone.l"
+  },
+  {
+   "prim": "lateral_cuneiform__r",
+   "id": "lateral_cuneiform",
+   "kind": "bone",
+   "side": "r",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Lateral cuneiform bone.r"
+  },
+  {
+   "prim": "za_lower_canine__l",
+   "id": "za_lower_canine",
+   "kind": "other",
+   "side": "l",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Lower canine.l"
+  },
+  {
+   "prim": "za_lower_canine__r",
+   "id": "za_lower_canine",
+   "kind": "other",
+   "side": "r",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Lower canine.r"
+  },
+  {
+   "prim": "za_lower_first_molar_tooth__l",
+   "id": "za_lower_first_molar_tooth",
+   "kind": "other",
+   "side": "l",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Lower first molar tooth.l"
+  },
+  {
+   "prim": "za_lower_first_molar_tooth__r",
+   "id": "za_lower_first_molar_tooth",
+   "kind": "other",
+   "side": "r",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Lower first molar tooth.r"
+  },
+  {
+   "prim": "za_lower_first_premolar__l",
+   "id": "za_lower_first_premolar",
+   "kind": "other",
+   "side": "l",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Lower first premolar.l"
+  },
+  {
+   "prim": "za_lower_first_premolar__r",
+   "id": "za_lower_first_premolar",
+   "kind": "other",
+   "side": "r",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Lower first premolar.r"
+  },
+  {
+   "prim": "za_lower_lateral_incisor__l",
+   "id": "za_lower_lateral_incisor",
+   "kind": "other",
+   "side": "l",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Lower lateral incisor.l"
+  },
+  {
+   "prim": "za_lower_lateral_incisor__r",
+   "id": "za_lower_lateral_incisor",
+   "kind": "other",
+   "side": "r",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Lower lateral incisor.r"
+  },
+  {
+   "prim": "za_lower_medial_incisor__l",
+   "id": "za_lower_medial_incisor",
+   "kind": "other",
+   "side": "l",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Lower medial incisor.l"
+  },
+  {
+   "prim": "za_lower_medial_incisor__r",
+   "id": "za_lower_medial_incisor",
+   "kind": "other",
+   "side": "r",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Lower medial incisor.r"
+  },
+  {
+   "prim": "za_lower_second_molar_tooth__l",
+   "id": "za_lower_second_molar_tooth",
+   "kind": "other",
+   "side": "l",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Lower second molar tooth.l"
+  },
+  {
+   "prim": "za_lower_second_molar_tooth__r",
+   "id": "za_lower_second_molar_tooth",
+   "kind": "other",
+   "side": "r",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Lower second molar tooth.r"
+  },
+  {
+   "prim": "za_lower_second_premolar__l",
+   "id": "za_lower_second_premolar",
+   "kind": "other",
+   "side": "l",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Lower second premolar.l"
+  },
+  {
+   "prim": "za_lower_second_premolar__r",
+   "id": "za_lower_second_premolar",
+   "kind": "other",
+   "side": "r",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Lower second premolar.r"
+  },
+  {
+   "prim": "lunate__l",
+   "id": "lunate",
+   "kind": "bone",
+   "side": "l",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Lunate bone.l"
+  },
+  {
+   "prim": "lunate__r",
+   "id": "lunate",
+   "kind": "bone",
+   "side": "r",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Lunate bone.r"
+  },
+  {
+   "prim": "za_major_alar_cartilage__l",
+   "id": "za_major_alar_cartilage",
+   "kind": "other",
+   "side": "l",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Major alar cartilage.l"
+  },
+  {
+   "prim": "za_major_alar_cartilage__r",
+   "id": "za_major_alar_cartilage",
+   "kind": "other",
+   "side": "r",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Major alar cartilage.r"
+  },
+  {
+   "prim": "mandible",
+   "id": "mandible",
+   "kind": "bone",
+   "side": "",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Mandible"
+  },
+  {
+   "prim": "maxilla__l",
+   "id": "maxilla",
+   "kind": "bone",
+   "side": "l",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Maxilla.l"
+  },
+  {
+   "prim": "maxilla__r",
+   "id": "maxilla",
+   "kind": "bone",
+   "side": "r",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Maxilla.r"
+  },
+  {
+   "prim": "medial_cuneiform__l",
+   "id": "medial_cuneiform",
+   "kind": "bone",
+   "side": "l",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Medial cuneiform bone.l"
+  },
+  {
+   "prim": "medial_cuneiform__r",
+   "id": "medial_cuneiform",
+   "kind": "bone",
+   "side": "r",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Medial cuneiform bone.r"
+  },
+  {
+   "prim": "radius__l",
+   "id": "radius",
+   "kind": "bone",
+   "side": "l",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Radius.l"
+  },
+  {
+   "prim": "radius__r",
+   "id": "radius",
+   "kind": "bone",
+   "side": "r",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Radius.r"
+  },
+  {
+   "prim": "triquetrum__l",
+   "id": "triquetrum",
+   "kind": "bone",
+   "side": "l",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Triquetrum bone.l"
+  },
+  {
+   "prim": "triquetrum__r",
+   "id": "triquetrum",
+   "kind": "bone",
+   "side": "r",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Triquetrum bone.r"
+  },
+  {
+   "prim": "za_upper_canine__l",
+   "id": "za_upper_canine",
+   "kind": "other",
+   "side": "l",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Upper canine.l"
+  },
+  {
+   "prim": "za_upper_canine__r",
+   "id": "za_upper_canine",
+   "kind": "other",
+   "side": "r",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Upper canine.r"
+  },
+  {
+   "prim": "za_upper_first_molar_tooth__l",
+   "id": "za_upper_first_molar_tooth",
+   "kind": "other",
+   "side": "l",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Upper first molar tooth.l"
+  },
+  {
+   "prim": "za_upper_first_molar_tooth__r",
+   "id": "za_upper_first_molar_tooth",
+   "kind": "other",
+   "side": "r",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Upper first molar tooth.r"
+  },
+  {
+   "prim": "za_upper_first_premolar__l",
+   "id": "za_upper_first_premolar",
+   "kind": "other",
+   "side": "l",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Upper first premolar.l"
+  },
+  {
+   "prim": "za_upper_first_premolar__r",
+   "id": "za_upper_first_premolar",
+   "kind": "other",
+   "side": "r",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Upper first premolar.r"
+  },
+  {
+   "prim": "za_upper_lateral_incisor__l",
+   "id": "za_upper_lateral_incisor",
+   "kind": "other",
+   "side": "l",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Upper lateral incisor.l"
+  },
+  {
+   "prim": "za_upper_lateral_incisor__r",
+   "id": "za_upper_lateral_incisor",
+   "kind": "other",
+   "side": "r",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Upper lateral incisor.r"
+  },
+  {
+   "prim": "za_upper_medial_incisor__l",
+   "id": "za_upper_medial_incisor",
+   "kind": "other",
+   "side": "l",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Upper medial incisor.l"
+  },
+  {
+   "prim": "za_upper_medial_incisor__r",
+   "id": "za_upper_medial_incisor",
+   "kind": "other",
+   "side": "r",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Upper medial incisor.r"
+  },
+  {
+   "prim": "za_upper_second_molar_tooth__l",
+   "id": "za_upper_second_molar_tooth",
+   "kind": "other",
+   "side": "l",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Upper second molar tooth.l"
+  },
+  {
+   "prim": "za_upper_second_molar_tooth__r",
+   "id": "za_upper_second_molar_tooth",
+   "kind": "other",
+   "side": "r",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Upper second molar tooth.r"
+  },
+  {
+   "prim": "za_upper_second_premolar__l",
+   "id": "za_upper_second_premolar",
+   "kind": "other",
+   "side": "l",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Upper second premolar.l"
+  },
+  {
+   "prim": "za_upper_second_premolar__r",
+   "id": "za_upper_second_premolar",
+   "kind": "other",
+   "side": "r",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Upper second premolar.r"
+  },
+  {
+   "prim": "sternum",
+   "id": "sternum",
+   "kind": "bone",
+   "side": "",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Xiphoid process"
+  },
+  {
+   "prim": "trapezium__l",
+   "id": "trapezium",
+   "kind": "bone",
+   "side": "l",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Trapezium bone.l"
+  },
+  {
+   "prim": "trapezium__r",
+   "id": "trapezium",
+   "kind": "bone",
+   "side": "r",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Trapezium bone.r"
+  },
+  {
+   "prim": "ulna__l",
+   "id": "ulna",
+   "kind": "bone",
+   "side": "l",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Ulna.l"
+  },
+  {
+   "prim": "ulna__r",
+   "id": "ulna",
+   "kind": "bone",
+   "side": "r",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Ulna.r"
+  },
+  {
+   "prim": "distal_phalanx_thumb__l",
+   "id": "distal_phalanx_thumb",
+   "kind": "bone",
+   "side": "l",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Distal phalanx of first finger of hand.l"
+  },
+  {
+   "prim": "distal_phalanx_thumb__r",
+   "id": "distal_phalanx_thumb",
+   "kind": "bone",
+   "side": "r",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Distal phalanx of first finger of hand.r"
+  },
+  {
+   "prim": "occipital",
+   "id": "occipital",
+   "kind": "bone",
+   "side": "",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Occipital bone"
+  },
+  {
+   "prim": "za_cricoid_cartilage",
+   "id": "za_cricoid_cartilage",
+   "kind": "other",
+   "side": "",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Cricoid cartilage"
+  },
+  {
+   "prim": "incus__l",
+   "id": "incus",
+   "kind": "bone",
+   "side": "l",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Incus.l"
+  },
+  {
+   "prim": "incus__r",
+   "id": "incus",
+   "kind": "bone",
+   "side": "r",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Incus.r"
+  },
+  {
+   "prim": "vertebra_c3",
+   "id": "vertebra_c3",
+   "kind": "bone",
+   "side": "",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Vertebra C3"
+  },
+  {
+   "prim": "vertebra_c4",
+   "id": "vertebra_c4",
+   "kind": "bone",
+   "side": "",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Vertebra C4"
+  },
+  {
+   "prim": "vertebra_c5",
+   "id": "vertebra_c5",
+   "kind": "bone",
+   "side": "",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Vertebra C5"
+  },
+  {
+   "prim": "vertebra_c6",
+   "id": "vertebra_c6",
+   "kind": "bone",
+   "side": "",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Vertebra C6"
+  },
+  {
+   "prim": "vertebra_c7",
+   "id": "vertebra_c7",
+   "kind": "bone",
+   "side": "",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Vertebra C7"
+  },
+  {
+   "prim": "vertebra_l1",
+   "id": "vertebra_l1",
+   "kind": "bone",
+   "side": "",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Vertebra L1"
+  },
+  {
+   "prim": "vertebra_l2",
+   "id": "vertebra_l2",
+   "kind": "bone",
+   "side": "",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Vertebra L2"
+  },
+  {
+   "prim": "vertebra_l3",
+   "id": "vertebra_l3",
+   "kind": "bone",
+   "side": "",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Vertebra L3"
+  },
+  {
+   "prim": "vertebra_l4",
+   "id": "vertebra_l4",
+   "kind": "bone",
+   "side": "",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Vertebra L4"
+  },
+  {
+   "prim": "vertebra_l5",
+   "id": "vertebra_l5",
+   "kind": "bone",
+   "side": "",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Vertebra L5"
+  },
+  {
+   "prim": "vertebra_t1",
+   "id": "vertebra_t1",
+   "kind": "bone",
+   "side": "",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Vertebra T1"
+  },
+  {
+   "prim": "vertebra_t10",
+   "id": "vertebra_t10",
+   "kind": "bone",
+   "side": "",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Vertebra T10"
+  },
+  {
+   "prim": "vertebra_t11",
+   "id": "vertebra_t11",
+   "kind": "bone",
+   "side": "",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Vertebra T11"
+  },
+  {
+   "prim": "vertebra_t12",
+   "id": "vertebra_t12",
+   "kind": "bone",
+   "side": "",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Vertebra T12"
+  },
+  {
+   "prim": "vertebra_t2",
+   "id": "vertebra_t2",
+   "kind": "bone",
+   "side": "",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Vertebra T2"
+  },
+  {
+   "prim": "vertebra_t3",
+   "id": "vertebra_t3",
+   "kind": "bone",
+   "side": "",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Vertebra T3"
+  },
+  {
+   "prim": "vertebra_t4",
+   "id": "vertebra_t4",
+   "kind": "bone",
+   "side": "",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Vertebra T4"
+  },
+  {
+   "prim": "vertebra_t5",
+   "id": "vertebra_t5",
+   "kind": "bone",
+   "side": "",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Vertebra T5"
+  },
+  {
+   "prim": "vertebra_t6",
+   "id": "vertebra_t6",
+   "kind": "bone",
+   "side": "",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Vertebra T6"
+  },
+  {
+   "prim": "vertebra_t7",
+   "id": "vertebra_t7",
+   "kind": "bone",
+   "side": "",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Vertebra T7"
+  },
+  {
+   "prim": "vertebra_t8",
+   "id": "vertebra_t8",
+   "kind": "bone",
+   "side": "",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Vertebra T8"
+  },
+  {
+   "prim": "vertebra_t9",
+   "id": "vertebra_t9",
+   "kind": "bone",
+   "side": "",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Vertebra T9"
+  },
+  {
+   "prim": "distal_phalanx_middle__r",
+   "id": "distal_phalanx_middle",
+   "kind": "bone",
+   "side": "r",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Distal phalanx of third finger of hand"
+  },
+  {
+   "prim": "distal_phalanx_middle__l",
+   "id": "distal_phalanx_middle",
+   "kind": "bone",
+   "side": "l",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Distal phalanx of third finger of hand.001"
+  },
+  {
+   "prim": "proximal_phalanx_middle__r",
+   "id": "proximal_phalanx_middle",
+   "kind": "bone",
+   "side": "r",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Proximal phalanx of third finger of hand"
+  },
+  {
+   "prim": "proximal_phalanx_middle__l",
+   "id": "proximal_phalanx_middle",
+   "kind": "bone",
+   "side": "l",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Proximal phalanx of third finger of hand.001"
+  },
+  {
+   "prim": "proximal_phalanx_ring__r",
+   "id": "proximal_phalanx_ring",
+   "kind": "bone",
+   "side": "r",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Proximal phalanx of fourth finger of hand"
+  },
+  {
+   "prim": "proximal_phalanx_ring__l",
+   "id": "proximal_phalanx_ring",
+   "kind": "bone",
+   "side": "l",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Proximal phalanx of fourth finger of hand.001"
+  },
+  {
+   "prim": "middle_phalanx_middle__r",
+   "id": "middle_phalanx_middle",
+   "kind": "bone",
+   "side": "r",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Middle phalanx of third finger of hand"
+  },
+  {
+   "prim": "middle_phalanx_middle__l",
+   "id": "middle_phalanx_middle",
+   "kind": "bone",
+   "side": "l",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Middle phalanx of third finger of hand.001"
+  },
+  {
+   "prim": "middle_phalanx_ring__r",
+   "id": "middle_phalanx_ring",
+   "kind": "bone",
+   "side": "r",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Middle phalanx of fourth finger of hand"
+  },
+  {
+   "prim": "middle_phalanx_ring__l",
+   "id": "middle_phalanx_ring",
+   "kind": "bone",
+   "side": "l",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Middle phalanx of fourth finger of hand.001"
+  },
+  {
+   "prim": "distal_phalanx_ring__r",
+   "id": "distal_phalanx_ring",
+   "kind": "bone",
+   "side": "r",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Distal phalanx of fourth finger of hand"
+  },
+  {
+   "prim": "distal_phalanx_ring__l",
+   "id": "distal_phalanx_ring",
+   "kind": "bone",
+   "side": "l",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Distal phalanx of fourth finger of hand.001"
+  },
+  {
+   "prim": "proximal_phalanx_index__r",
+   "id": "proximal_phalanx_index",
+   "kind": "bone",
+   "side": "r",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Proximal phalanx of second finger of hand"
+  },
+  {
+   "prim": "proximal_phalanx_index__l",
+   "id": "proximal_phalanx_index",
+   "kind": "bone",
+   "side": "l",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Proximal phalanx of second finger of hand.001"
+  },
+  {
+   "prim": "middle_phalanx_index__r",
+   "id": "middle_phalanx_index",
+   "kind": "bone",
+   "side": "r",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Middle phalanx of second finger of hand"
+  },
+  {
+   "prim": "middle_phalanx_index__l",
+   "id": "middle_phalanx_index",
+   "kind": "bone",
+   "side": "l",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Middle phalanx of second finger of hand.001"
+  },
+  {
+   "prim": "proximal_phalanx_thumb__r",
+   "id": "proximal_phalanx_thumb",
+   "kind": "bone",
+   "side": "r",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Proximal phalanx of first finger of hand"
+  },
+  {
+   "prim": "proximal_phalanx_thumb__l",
+   "id": "proximal_phalanx_thumb",
+   "kind": "bone",
+   "side": "l",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Proximal phalanx of first finger of hand.001"
+  },
+  {
+   "prim": "distal_phalanx_index__r",
+   "id": "distal_phalanx_index",
+   "kind": "bone",
+   "side": "r",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Distal phalanx of second finger of hand"
+  },
+  {
+   "prim": "distal_phalanx_index__l",
+   "id": "distal_phalanx_index",
+   "kind": "bone",
+   "side": "l",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Distal phalanx of second finger of hand.001"
+  },
+  {
+   "prim": "middle_phalanx_little__r",
+   "id": "middle_phalanx_little",
+   "kind": "bone",
+   "side": "r",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Middle phalanx of fifth finger of hand"
+  },
+  {
+   "prim": "middle_phalanx_little__l",
+   "id": "middle_phalanx_little",
+   "kind": "bone",
+   "side": "l",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Middle phalanx of fifth finger of hand.001"
+  },
+  {
+   "prim": "proximal_phalanx_little__r",
+   "id": "proximal_phalanx_little",
+   "kind": "bone",
+   "side": "r",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Proximal phalanx of fifth finger of hand"
+  },
+  {
+   "prim": "proximal_phalanx_little__l",
+   "id": "proximal_phalanx_little",
+   "kind": "bone",
+   "side": "l",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Proximal phalanx of fifth finger of hand.001"
+  },
+  {
+   "prim": "distal_phalanx_little__r",
+   "id": "distal_phalanx_little",
+   "kind": "bone",
+   "side": "r",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Distal phalanx of fifth finger of hand"
+  },
+  {
+   "prim": "distal_phalanx_little__l",
+   "id": "distal_phalanx_little",
+   "kind": "bone",
+   "side": "l",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Distal phalanx of fifth finger of hand.001"
+  },
+  {
+   "prim": "clavicle__l",
+   "id": "clavicle",
+   "kind": "bone",
+   "side": "l",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Clavicle.l"
+  },
+  {
+   "prim": "za_corniculate_cartilage__l",
+   "id": "za_corniculate_cartilage",
+   "kind": "other",
+   "side": "l",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Corniculate cartilage.l"
+  },
+  {
+   "prim": "za_corniculate_cartilage__r",
+   "id": "za_corniculate_cartilage",
+   "kind": "other",
+   "side": "r",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Corniculate cartilage.r"
+  },
+  {
+   "prim": "rib_11__l",
+   "id": "rib_11",
+   "kind": "bone",
+   "side": "l",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Eleventh rib.l"
+  },
+  {
+   "prim": "rib_11__r",
+   "id": "rib_11",
+   "kind": "bone",
+   "side": "r",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Eleventh rib.r"
+  },
+  {
+   "prim": "ethmoid",
+   "id": "ethmoid",
+   "kind": "bone",
+   "side": "",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Ethmoid bone"
+  },
+  {
+   "prim": "femur__l",
+   "id": "femur",
+   "kind": "bone",
+   "side": "l",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Femur.l"
+  },
+  {
+   "prim": "femur__r",
+   "id": "femur",
+   "kind": "bone",
+   "side": "r",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Femur.r"
+  },
+  {
+   "prim": "metacarpal_5__l",
+   "id": "metacarpal_5",
+   "kind": "bone",
+   "side": "l",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Fifth metacarpal bone.l"
+  },
+  {
+   "prim": "metacarpal_5__r",
+   "id": "metacarpal_5",
+   "kind": "bone",
+   "side": "r",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Fifth metacarpal bone.r"
+  },
+  {
+   "prim": "metatarsal_5__l",
+   "id": "metatarsal_5",
+   "kind": "bone",
+   "side": "l",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Fifth metatarsal bone.l"
+  },
+  {
+   "prim": "metatarsal_5__r",
+   "id": "metatarsal_5",
+   "kind": "bone",
+   "side": "r",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Fifth metatarsal bone.r"
+  },
+  {
+   "prim": "rib_5__l",
+   "id": "rib_5",
+   "kind": "bone",
+   "side": "l",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Fifth rib.l"
+  },
+  {
+   "prim": "rib_5__r",
+   "id": "rib_5",
+   "kind": "bone",
+   "side": "r",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Fifth rib.r"
+  },
+  {
+   "prim": "metatarsal_1__l",
+   "id": "metatarsal_1",
+   "kind": "bone",
+   "side": "l",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "First metatarsal bone.l"
+  },
+  {
+   "prim": "metatarsal_1__r",
+   "id": "metatarsal_1",
+   "kind": "bone",
+   "side": "r",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "First metatarsal bone.r"
+  },
+  {
+   "prim": "rib_1__l",
+   "id": "rib_1",
+   "kind": "bone",
+   "side": "l",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "First rib.l"
+  },
+  {
+   "prim": "rib_1__r",
+   "id": "rib_1",
+   "kind": "bone",
+   "side": "r",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "First rib.r"
+  },
+  {
+   "prim": "metatarsal_4__l",
+   "id": "metatarsal_4",
+   "kind": "bone",
+   "side": "l",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Fourth metatarsal bone.l"
+  },
+  {
+   "prim": "metatarsal_4__r",
+   "id": "metatarsal_4",
+   "kind": "bone",
+   "side": "r",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Fourth metatarsal bone.r"
+  },
+  {
+   "prim": "rib_4__l",
+   "id": "rib_4",
+   "kind": "bone",
+   "side": "l",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Fourth rib.l"
+  },
+  {
+   "prim": "rib_4__r",
+   "id": "rib_4",
+   "kind": "bone",
+   "side": "r",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Fourth rib.r"
+  },
+  {
+   "prim": "hip_bone__l",
+   "id": "hip_bone",
+   "kind": "bone",
+   "side": "l",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Hip bone.l"
+  },
+  {
+   "prim": "hip_bone__r",
+   "id": "hip_bone",
+   "kind": "bone",
+   "side": "r",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Hip bone.r"
+  },
+  {
+   "prim": "humerus__l",
+   "id": "humerus",
+   "kind": "bone",
+   "side": "l",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Humerus.l"
+  },
+  {
+   "prim": "humerus__r",
+   "id": "humerus",
+   "kind": "bone",
+   "side": "r",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Humerus.r"
+  },
+  {
+   "prim": "hyoid",
+   "id": "hyoid",
+   "kind": "bone",
+   "side": "",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Hyoid bone"
+  },
+  {
+   "prim": "lacrimal__l",
+   "id": "lacrimal",
+   "kind": "bone",
+   "side": "l",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Lacrimal bone.l"
+  },
+  {
+   "prim": "lacrimal__r",
+   "id": "lacrimal",
+   "kind": "bone",
+   "side": "r",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Lacrimal bone.r"
+  },
+  {
+   "prim": "rib_9__l",
+   "id": "rib_9",
+   "kind": "bone",
+   "side": "l",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Ninth rib.l"
+  },
+  {
+   "prim": "rib_9__r",
+   "id": "rib_9",
+   "kind": "bone",
+   "side": "r",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Ninth rib.r"
+  },
+  {
+   "prim": "palatine__l",
+   "id": "palatine",
+   "kind": "bone",
+   "side": "l",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Palatine bone.l"
+  },
+  {
+   "prim": "palatine__r",
+   "id": "palatine",
+   "kind": "bone",
+   "side": "r",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Palatine bone.r"
+  },
+  {
+   "prim": "scapula__l",
+   "id": "scapula",
+   "kind": "bone",
+   "side": "l",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Scapula.l"
+  },
+  {
+   "prim": "scapula__r",
+   "id": "scapula",
+   "kind": "bone",
+   "side": "r",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Scapula.r"
+  },
+  {
+   "prim": "metacarpal_2__l",
+   "id": "metacarpal_2",
+   "kind": "bone",
+   "side": "l",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Second metacarpal bone.l"
+  },
+  {
+   "prim": "metacarpal_2__r",
+   "id": "metacarpal_2",
+   "kind": "bone",
+   "side": "r",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Second metacarpal bone.r"
+  },
+  {
+   "prim": "metatarsal_2__l",
+   "id": "metatarsal_2",
+   "kind": "bone",
+   "side": "l",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Second metatarsal bone.l"
+  },
+  {
+   "prim": "metatarsal_2__r",
+   "id": "metatarsal_2",
+   "kind": "bone",
+   "side": "r",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Second metatarsal bone.r"
+  },
+  {
+   "prim": "rib_2__l",
+   "id": "rib_2",
+   "kind": "bone",
+   "side": "l",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Second rib.l"
+  },
+  {
+   "prim": "rib_2__r",
+   "id": "rib_2",
+   "kind": "bone",
+   "side": "r",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Second rib.r"
+  },
+  {
+   "prim": "rib_7__l",
+   "id": "rib_7",
+   "kind": "bone",
+   "side": "l",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Seventh rib.l"
+  },
+  {
+   "prim": "rib_7__r",
+   "id": "rib_7",
+   "kind": "bone",
+   "side": "r",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Seventh rib.r"
+  },
+  {
+   "prim": "rib_6__l",
+   "id": "rib_6",
+   "kind": "bone",
+   "side": "l",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Sixth rib.l"
+  },
+  {
+   "prim": "rib_6__r",
+   "id": "rib_6",
+   "kind": "bone",
+   "side": "r",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Sixth rib.r"
+  },
+  {
+   "prim": "rib_10__l",
+   "id": "rib_10",
+   "kind": "bone",
+   "side": "l",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Tenth rib.l"
+  },
+  {
+   "prim": "rib_10__r",
+   "id": "rib_10",
+   "kind": "bone",
+   "side": "r",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Tenth rib.r"
+  },
+  {
+   "prim": "metacarpal_3__l",
+   "id": "metacarpal_3",
+   "kind": "bone",
+   "side": "l",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Third metacarpal bone"
+  },
+  {
+   "prim": "metacarpal_3__r",
+   "id": "metacarpal_3",
+   "kind": "bone",
+   "side": "r",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Third metacarpal bone.l"
+  },
+  {
+   "prim": "metatarsal_3__l",
+   "id": "metatarsal_3",
+   "kind": "bone",
+   "side": "l",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Third metatarsal bone.l"
+  },
+  {
+   "prim": "metatarsal_3__r",
+   "id": "metatarsal_3",
+   "kind": "bone",
+   "side": "r",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Third metatarsal bone.r"
+  },
+  {
+   "prim": "rib_3__l",
+   "id": "rib_3",
+   "kind": "bone",
+   "side": "l",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Third rib.l"
+  },
+  {
+   "prim": "rib_3__r",
+   "id": "rib_3",
+   "kind": "bone",
+   "side": "r",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Third rib.r"
+  },
+  {
+   "prim": "za_thyroid_cartilage",
+   "id": "za_thyroid_cartilage",
+   "kind": "other",
+   "side": "",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Thyroid cartilage"
+  },
+  {
+   "prim": "rib_12__l",
+   "id": "rib_12",
+   "kind": "bone",
+   "side": "l",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Twelfth rib.l"
+  },
+  {
+   "prim": "rib_12__r",
+   "id": "rib_12",
+   "kind": "bone",
+   "side": "r",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Twelfth rib.r"
+  },
+  {
+   "prim": "clavicle__r",
+   "id": "clavicle",
+   "kind": "bone",
+   "side": "r",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Clavicle.r"
+  },
+  {
+   "prim": "sternum__manubrium_of_sternum",
+   "id": "sternum",
+   "kind": "bone",
+   "side": "",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Manubrium of sternum"
+  },
+  {
+   "prim": "sternum__sternum",
+   "id": "sternum",
+   "kind": "bone",
+   "side": "",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Sternum"
+  },
+  {
+   "prim": "tibia__l",
+   "id": "tibia",
+   "kind": "bone",
+   "side": "l",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Tibia.l"
+  },
+  {
+   "prim": "tibia__r",
+   "id": "tibia",
+   "kind": "bone",
+   "side": "r",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Tibia.r"
+  },
+  {
+   "prim": "trapezoid__l",
+   "id": "trapezoid",
+   "kind": "bone",
+   "side": "l",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Trapezoid bone"
+  },
+  {
+   "prim": "trapezoid__r",
+   "id": "trapezoid",
+   "kind": "bone",
+   "side": "r",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Trapezoid bone.001"
+  },
+  {
+   "prim": "fibula__l",
+   "id": "fibula",
+   "kind": "bone",
+   "side": "l",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Fibula.l"
+  },
+  {
+   "prim": "fibula__r",
+   "id": "fibula",
+   "kind": "bone",
+   "side": "r",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Fibula.r"
+  },
+  {
+   "prim": "vomer",
+   "id": "vomer",
+   "kind": "bone",
+   "side": "",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Vomer"
+  },
+  {
+   "prim": "navicular__l",
+   "id": "navicular",
+   "kind": "bone",
+   "side": "l",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Navicular bone.l"
+  },
+  {
+   "prim": "navicular__r",
+   "id": "navicular",
+   "kind": "bone",
+   "side": "r",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Navicular bone.r"
+  },
+  {
+   "prim": "pisiform__l",
+   "id": "pisiform",
+   "kind": "bone",
+   "side": "l",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Pisiform bone.l"
+  },
+  {
+   "prim": "pisiform__r",
+   "id": "pisiform",
+   "kind": "bone",
+   "side": "r",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Pisiform bone.r"
+  },
+  {
+   "prim": "za_sinus_of_sphenoid_bone",
+   "id": "za_sinus_of_sphenoid_bone",
+   "kind": "other",
+   "side": "",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Sinus of sphenoid bone"
+  },
+  {
+   "prim": "sphenoid",
+   "id": "sphenoid",
+   "kind": "bone",
+   "side": "",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Sphenoid bone"
+  },
+  {
+   "prim": "metacarpal_1__r",
+   "id": "metacarpal_1",
+   "kind": "bone",
+   "side": "r",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "First metacarpal bone"
+  },
+  {
+   "prim": "metacarpal_1__l",
+   "id": "metacarpal_1",
+   "kind": "bone",
+   "side": "l",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "First metacarpal bone.001"
+  },
+  {
+   "prim": "metacarpal_4__r",
+   "id": "metacarpal_4",
+   "kind": "bone",
+   "side": "r",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Fourth metacarpal bone"
+  },
+  {
+   "prim": "metacarpal_4__l",
+   "id": "metacarpal_4",
+   "kind": "bone",
+   "side": "l",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Fourth metacarpal bone.001"
+  },
+  {
+   "prim": "middle_phalanx_toe_3__r",
+   "id": "middle_phalanx_toe_3",
+   "kind": "bone",
+   "side": "r",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Middle phalanx of third finger of foot"
+  },
+  {
+   "prim": "middle_phalanx_toe_3__l",
+   "id": "middle_phalanx_toe_3",
+   "kind": "bone",
+   "side": "l",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Middle phalanx of third finger of foot.001"
+  },
+  {
+   "prim": "middle_phalanx_toe_4__r",
+   "id": "middle_phalanx_toe_4",
+   "kind": "bone",
+   "side": "r",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Middle phalanx of fourth finger of foot"
+  },
+  {
+   "prim": "middle_phalanx_toe_4__l",
+   "id": "middle_phalanx_toe_4",
+   "kind": "bone",
+   "side": "l",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Middle phalanx of fourth finger of foot.001"
+  },
+  {
+   "prim": "middle_phalanx_toe_2__r",
+   "id": "middle_phalanx_toe_2",
+   "kind": "bone",
+   "side": "r",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Middle phalanx of second finger of foot"
+  },
+  {
+   "prim": "middle_phalanx_toe_2__l",
+   "id": "middle_phalanx_toe_2",
+   "kind": "bone",
+   "side": "l",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Middle phalanx of second finger of foot.001"
+  },
+  {
+   "prim": "middle_phalanx_toe_5__r",
+   "id": "middle_phalanx_toe_5",
+   "kind": "bone",
+   "side": "r",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Middle phalanx of fifth finger of foot"
+  },
+  {
+   "prim": "middle_phalanx_toe_5__l",
+   "id": "middle_phalanx_toe_5",
+   "kind": "bone",
+   "side": "l",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Middle phalanx of fifth finger of foot.001"
+  },
+  {
+   "prim": "za_lateral_process_of_nasal_septal_cartilage",
+   "id": "za_lateral_process_of_nasal_septal_cartilage",
+   "kind": "other",
+   "side": "",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Lateral process of nasal septal cartilage.001"
+  },
+  {
+   "prim": "sacrum",
+   "id": "sacrum",
+   "kind": "bone",
+   "side": "",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Sacrum"
+  },
+  {
+   "prim": "vertebra_c2",
+   "id": "vertebra_c2",
+   "kind": "bone",
+   "side": "",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Axis (C2)"
+  },
+  {
+   "prim": "capitate__l",
+   "id": "capitate",
+   "kind": "bone",
+   "side": "l",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Capitate bone.l"
+  },
+  {
+   "prim": "capitate__r",
+   "id": "capitate",
+   "kind": "bone",
+   "side": "r",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Capitate bone.r"
+  },
+  {
+   "prim": "cuboid__l",
+   "id": "cuboid",
+   "kind": "bone",
+   "side": "l",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Cuboid bone.l"
+  },
+  {
+   "prim": "cuboid__r",
+   "id": "cuboid",
+   "kind": "bone",
+   "side": "r",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Cuboid bone.r"
+  },
+  {
+   "prim": "frontal",
+   "id": "frontal",
+   "kind": "bone",
+   "side": "",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Frontal bone"
+  },
+  {
+   "prim": "hamate__l",
+   "id": "hamate",
+   "kind": "bone",
+   "side": "l",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Hamate bone.l"
+  },
+  {
+   "prim": "hamate__r",
+   "id": "hamate",
+   "kind": "bone",
+   "side": "r",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Hamate bone.r"
+  },
+  {
+   "prim": "malleus__l",
+   "id": "malleus",
+   "kind": "bone",
+   "side": "l",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Malleus.l"
+  },
+  {
+   "prim": "malleus__r",
+   "id": "malleus",
+   "kind": "bone",
+   "side": "r",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Malleus.r"
+  },
+  {
+   "prim": "nasal__l",
+   "id": "nasal",
+   "kind": "bone",
+   "side": "l",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Nasal bone.l"
+  },
+  {
+   "prim": "nasal__r",
+   "id": "nasal",
+   "kind": "bone",
+   "side": "r",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Nasal bone.r"
+  },
+  {
+   "prim": "za_nasal_septal_cartilage",
+   "id": "za_nasal_septal_cartilage",
+   "kind": "other",
+   "side": "",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Nasal septal cartilage"
+  },
+  {
+   "prim": "za_sesamoid_bones_of_foot__l",
+   "id": "za_sesamoid_bones_of_foot",
+   "kind": "other",
+   "side": "l",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Sesamoid bones of foot.l"
+  },
+  {
+   "prim": "za_sesamoid_bones_of_foot__r",
+   "id": "za_sesamoid_bones_of_foot",
+   "kind": "other",
+   "side": "r",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Sesamoid bones of foot.r"
+  },
+  {
+   "prim": "calcaneus__l",
+   "id": "calcaneus",
+   "kind": "bone",
+   "side": "l",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Calcaneus.l"
+  },
+  {
+   "prim": "calcaneus__r",
+   "id": "calcaneus",
+   "kind": "bone",
+   "side": "r",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Calcaneus.r"
+  },
+  {
+   "prim": "rib_8__l",
+   "id": "rib_8",
+   "kind": "bone",
+   "side": "l",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Heighth rib.l"
+  },
+  {
+   "prim": "rib_8__r",
+   "id": "rib_8",
+   "kind": "bone",
+   "side": "r",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Heighth rib.r"
+  },
+  {
+   "prim": "parietal__l",
+   "id": "parietal",
+   "kind": "bone",
+   "side": "l",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Parietal bone.l"
+  },
+  {
+   "prim": "parietal__r",
+   "id": "parietal",
+   "kind": "bone",
+   "side": "r",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Parietal bone.r"
+  },
+  {
+   "prim": "patella__l",
+   "id": "patella",
+   "kind": "bone",
+   "side": "l",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Patella.l"
+  },
+  {
+   "prim": "patella__r",
+   "id": "patella",
+   "kind": "bone",
+   "side": "r",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Patella.r"
+  },
+  {
+   "prim": "scaphoid__l",
+   "id": "scaphoid",
+   "kind": "bone",
+   "side": "l",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Scaphoid bone"
+  },
+  {
+   "prim": "scaphoid__r",
+   "id": "scaphoid",
+   "kind": "bone",
+   "side": "r",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Scaphoid bone.001"
+  },
+  {
+   "prim": "za_sinus_of_frontal_bone",
+   "id": "za_sinus_of_frontal_bone",
+   "kind": "other",
+   "side": "",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Sinus of frontal bone"
+  },
+  {
+   "prim": "stapes__l",
+   "id": "stapes",
+   "kind": "bone",
+   "side": "l",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Stapes.l"
+  },
+  {
+   "prim": "stapes__r",
+   "id": "stapes",
+   "kind": "bone",
+   "side": "r",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Stapes.r"
+  },
+  {
+   "prim": "talus__l",
+   "id": "talus",
+   "kind": "bone",
+   "side": "l",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Talus.l"
+  },
+  {
+   "prim": "talus__r",
+   "id": "talus",
+   "kind": "bone",
+   "side": "r",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Talus.r"
+  },
+  {
+   "prim": "temporal__l",
+   "id": "temporal",
+   "kind": "bone",
+   "side": "l",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Temporal bone.l"
+  },
+  {
+   "prim": "temporal__r",
+   "id": "temporal",
+   "kind": "bone",
+   "side": "r",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Temporal bone.r"
+  },
+  {
+   "prim": "zygomatic__l",
+   "id": "zygomatic",
+   "kind": "bone",
+   "side": "l",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Zygomatic bone.l"
+  },
+  {
+   "prim": "zygomatic__r",
+   "id": "zygomatic",
+   "kind": "bone",
+   "side": "r",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Zygomatic bone.r"
+  },
+  {
+   "prim": "proximal_phalanx_toe_4__r",
+   "id": "proximal_phalanx_toe_4",
+   "kind": "bone",
+   "side": "r",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Proximal phalanx of fourth finger of foot"
+  },
+  {
+   "prim": "proximal_phalanx_toe_4__l",
+   "id": "proximal_phalanx_toe_4",
+   "kind": "bone",
+   "side": "l",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Proximal phalanx of fourth finger of foot.001"
+  },
+  {
+   "prim": "proximal_phalanx_toe_3__r",
+   "id": "proximal_phalanx_toe_3",
+   "kind": "bone",
+   "side": "r",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Proximal phalanx of third finger of foot"
+  },
+  {
+   "prim": "proximal_phalanx_toe_3__l",
+   "id": "proximal_phalanx_toe_3",
+   "kind": "bone",
+   "side": "l",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Proximal phalanx of third finger of foot.001"
+  },
+  {
+   "prim": "distal_phalanx_toe_4__r",
+   "id": "distal_phalanx_toe_4",
+   "kind": "bone",
+   "side": "r",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Distal phalanx of fourth finger of foot"
+  },
+  {
+   "prim": "distal_phalanx_toe_4__l",
+   "id": "distal_phalanx_toe_4",
+   "kind": "bone",
+   "side": "l",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Distal phalanx of fourth finger of foot.001"
+  },
+  {
+   "prim": "distal_phalanx_toe_3__r",
+   "id": "distal_phalanx_toe_3",
+   "kind": "bone",
+   "side": "r",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Distal phalanx of third finger of foot"
+  },
+  {
+   "prim": "distal_phalanx_toe_3__l",
+   "id": "distal_phalanx_toe_3",
+   "kind": "bone",
+   "side": "l",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Distal phalanx of third finger of foot.001"
+  },
+  {
+   "prim": "proximal_phalanx_hallux__r",
+   "id": "proximal_phalanx_hallux",
+   "kind": "bone",
+   "side": "r",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Proximal phalanx of first finger of foot"
+  },
+  {
+   "prim": "proximal_phalanx_hallux__l",
+   "id": "proximal_phalanx_hallux",
+   "kind": "bone",
+   "side": "l",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Proximal phalanx of first finger of foot.001"
+  },
+  {
+   "prim": "distal_phalanx_hallux__r",
+   "id": "distal_phalanx_hallux",
+   "kind": "bone",
+   "side": "r",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Distal phalanx of first finger of foot"
+  },
+  {
+   "prim": "distal_phalanx_hallux__l",
+   "id": "distal_phalanx_hallux",
+   "kind": "bone",
+   "side": "l",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Distal phalanx of first finger of foot.001"
+  },
+  {
+   "prim": "proximal_phalanx_toe_2__r",
+   "id": "proximal_phalanx_toe_2",
+   "kind": "bone",
+   "side": "r",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Proximal phalanx of second finger of foot"
+  },
+  {
+   "prim": "proximal_phalanx_toe_2__l",
+   "id": "proximal_phalanx_toe_2",
+   "kind": "bone",
+   "side": "l",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Proximal phalanx of second finger of foot.001"
+  },
+  {
+   "prim": "distal_phalanx_toe_2__r",
+   "id": "distal_phalanx_toe_2",
+   "kind": "bone",
+   "side": "r",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Distal phalanx of second finger of foot"
+  },
+  {
+   "prim": "distal_phalanx_toe_2__l",
+   "id": "distal_phalanx_toe_2",
+   "kind": "bone",
+   "side": "l",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Distal phalanx of second finger of foot.001"
+  },
+  {
+   "prim": "proximal_phalanx_toe_5__r",
+   "id": "proximal_phalanx_toe_5",
+   "kind": "bone",
+   "side": "r",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Proximal phalanx of fifth finger of foot"
+  },
+  {
+   "prim": "proximal_phalanx_toe_5__l",
+   "id": "proximal_phalanx_toe_5",
+   "kind": "bone",
+   "side": "l",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Proximal phalanx of fifth finger of foot.001"
+  },
+  {
+   "prim": "distal_phalanx_toe_5__r",
+   "id": "distal_phalanx_toe_5",
+   "kind": "bone",
+   "side": "r",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Distal phalanx of fifth finger of foot"
+  },
+  {
+   "prim": "distal_phalanx_toe_5__l",
+   "id": "distal_phalanx_toe_5",
+   "kind": "bone",
+   "side": "l",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Distal phalanx of fifth finger of foot.001"
+  },
+  {
+   "prim": "za_lateral_process_of_nasal_septal_cartilage__lateral_process_of_nasal_septal_cartilage",
+   "id": "za_lateral_process_of_nasal_septal_cartilage",
+   "kind": "other",
+   "side": "",
+   "layer": "skeleton",
+   "chunk": "bundle",
+   "source": "Lateral process of nasal septal cartilage"
+  },
+  {
+   "prim": "pectoralis_major__l",
+   "id": "pectoralis_major",
+   "kind": "catalog",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "trunk",
+   "source": "(Abdominal part of pectoralis major muscle).l"
+  },
+  {
+   "prim": "pectoralis_major__r",
+   "id": "pectoralis_major",
+   "kind": "catalog",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "trunk",
+   "source": "(Abdominal part of pectoralis major muscle).r"
+  },
+  {
+   "prim": "za_adductor_minimus__l",
+   "id": "za_adductor_minimus",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "(Adductor minimus).l"
+  },
+  {
+   "prim": "za_adductor_minimus__r",
+   "id": "za_adductor_minimus",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "(Adductor minimus).r"
+  },
+  {
+   "prim": "za_opponens_digiti_minimi_muscle_of_foot__l",
+   "id": "za_opponens_digiti_minimi_muscle_of_foot",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "(Opponens digiti minimi muscle of foot).l"
+  },
+  {
+   "prim": "za_opponens_digiti_minimi_muscle_of_foot__r",
+   "id": "za_opponens_digiti_minimi_muscle_of_foot",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "(Opponens digiti minimi muscle of foot).r"
+  },
+  {
+   "prim": "za_abductor_digiti_minimi_of_foot__l",
+   "id": "za_abductor_digiti_minimi_of_foot",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "Abductor digiti minimi of foot.l"
+  },
+  {
+   "prim": "za_abductor_digiti_minimi_of_foot__r",
+   "id": "za_abductor_digiti_minimi_of_foot",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "Abductor digiti minimi of foot.r"
+  },
+  {
+   "prim": "abductor_digiti_minimi_manus__l",
+   "id": "abductor_digiti_minimi_manus",
+   "kind": "catalog",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "upper-limb",
+   "source": "Abductor digiti minimi of hand.l"
+  },
+  {
+   "prim": "abductor_digiti_minimi_manus__r",
+   "id": "abductor_digiti_minimi_manus",
+   "kind": "catalog",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "upper-limb",
+   "source": "Abductor digiti minimi of hand.r"
+  },
+  {
+   "prim": "za_abductor_hallucis__l",
+   "id": "za_abductor_hallucis",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "Abductor hallucis.l"
+  },
+  {
+   "prim": "za_abductor_hallucis__r",
+   "id": "za_abductor_hallucis",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "Abductor hallucis.r"
+  },
+  {
+   "prim": "abductor_pollicis_brevis__l",
+   "id": "abductor_pollicis_brevis",
+   "kind": "catalog",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "upper-limb",
+   "source": "Abductor pollicis brevis.l"
+  },
+  {
+   "prim": "abductor_pollicis_brevis__r",
+   "id": "abductor_pollicis_brevis",
+   "kind": "catalog",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "upper-limb",
+   "source": "Abductor pollicis brevis.r"
+  },
+  {
+   "prim": "za_abductor_pollicis_longus__l",
+   "id": "za_abductor_pollicis_longus",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "upper-limb",
+   "source": "Abductor pollicis longus.l"
+  },
+  {
+   "prim": "za_abductor_pollicis_longus__r",
+   "id": "za_abductor_pollicis_longus",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "upper-limb",
+   "source": "Abductor pollicis longus.r"
+  },
+  {
+   "prim": "deltoid__l",
+   "id": "deltoid",
+   "kind": "catalog",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "upper-limb",
+   "source": "Acromial part of deltoid muscle.l"
+  },
+  {
+   "prim": "deltoid__r",
+   "id": "deltoid",
+   "kind": "catalog",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "upper-limb",
+   "source": "Acromial part of deltoid muscle.r"
+  },
+  {
+   "prim": "adductor_brevis__l",
+   "id": "adductor_brevis",
+   "kind": "catalog",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "Adductor brevis.l"
+  },
+  {
+   "prim": "adductor_brevis__r",
+   "id": "adductor_brevis",
+   "kind": "catalog",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "Adductor brevis.r"
+  },
+  {
+   "prim": "adductor_longus__l",
+   "id": "adductor_longus",
+   "kind": "catalog",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "Adductor longus.l"
+  },
+  {
+   "prim": "adductor_longus__r",
+   "id": "adductor_longus",
+   "kind": "catalog",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "Adductor longus.r"
+  },
+  {
+   "prim": "adductor_magnus__l",
+   "id": "adductor_magnus",
+   "kind": "catalog",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "Adductor magnus.l"
+  },
+  {
+   "prim": "adductor_magnus__r",
+   "id": "adductor_magnus",
+   "kind": "catalog",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "Adductor magnus.r"
+  },
+  {
+   "prim": "za_anconeus_muscle__l",
+   "id": "za_anconeus_muscle",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "upper-limb",
+   "source": "Anconeus muscle.l"
+  },
+  {
+   "prim": "za_anconeus_muscle__r",
+   "id": "za_anconeus_muscle",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "upper-limb",
+   "source": "Anconeus muscle.r"
+  },
+  {
+   "prim": "za_antebrachial_fascia__l",
+   "id": "za_antebrachial_fascia",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "upper-limb",
+   "source": "Antebrachial fascia.l"
+  },
+  {
+   "prim": "za_antebrachial_fascia__r",
+   "id": "za_antebrachial_fascia",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "upper-limb",
+   "source": "Antebrachial fascia.r"
+  },
+  {
+   "prim": "digastric__l",
+   "id": "digastric",
+   "kind": "catalog",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Anterior belly of digastric muscle.l"
+  },
+  {
+   "prim": "digastric__r",
+   "id": "digastric",
+   "kind": "catalog",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Anterior belly of digastric muscle.r"
+  },
+  {
+   "prim": "za_anterior_intermuscular_septum_of_leg__l",
+   "id": "za_anterior_intermuscular_septum_of_leg",
+   "kind": "other",
+   "side": "l",
+   "layer": "fascia",
+   "chunk": "bundle",
+   "source": "Anterior intermuscular septum of leg.l"
+  },
+  {
+   "prim": "za_anterior_intermuscular_septum_of_leg__r",
+   "id": "za_anterior_intermuscular_septum_of_leg",
+   "kind": "other",
+   "side": "r",
+   "layer": "fascia",
+   "chunk": "bundle",
+   "source": "Anterior intermuscular septum of leg.r"
+  },
+  {
+   "prim": "za_anterior_layer_of_thoracolumbar_fascia__l",
+   "id": "za_anterior_layer_of_thoracolumbar_fascia",
+   "kind": "other",
+   "side": "l",
+   "layer": "fascia",
+   "chunk": "bundle",
+   "source": "Anterior layer of thoracolumbar fascia.l"
+  },
+  {
+   "prim": "za_anterior_layer_of_thoracolumbar_fascia__r",
+   "id": "za_anterior_layer_of_thoracolumbar_fascia",
+   "kind": "other",
+   "side": "r",
+   "layer": "fascia",
+   "chunk": "bundle",
+   "source": "Anterior layer of thoracolumbar fascia.r"
+  },
+  {
+   "prim": "za_ary_epiglottic_part_of_oblique_arytenoid_muscle__l",
+   "id": "za_ary_epiglottic_part_of_oblique_arytenoid_muscle",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Ary-epiglottic part of oblique arytenoid muscle.l"
+  },
+  {
+   "prim": "za_ary_epiglottic_part_of_oblique_arytenoid_muscle__r",
+   "id": "za_ary_epiglottic_part_of_oblique_arytenoid_muscle",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Ary-epiglottic part of oblique arytenoid muscle.r"
+  },
+  {
+   "prim": "trapezius__l",
+   "id": "trapezius",
+   "kind": "catalog",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Ascending part of trapezius muscle.l"
+  },
+  {
+   "prim": "trapezius__r",
+   "id": "trapezius",
+   "kind": "catalog",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Ascending part of trapezius muscle.r"
+  },
+  {
+   "prim": "za_brachial_fascia__l",
+   "id": "za_brachial_fascia",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "upper-limb",
+   "source": "Brachial fascia.l"
+  },
+  {
+   "prim": "za_brachial_fascia__r",
+   "id": "za_brachial_fascia",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "upper-limb",
+   "source": "Brachial fascia.r"
+  },
+  {
+   "prim": "brachialis__l",
+   "id": "brachialis",
+   "kind": "catalog",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "upper-limb",
+   "source": "Brachialis muscle.l"
+  },
+  {
+   "prim": "brachialis__r",
+   "id": "brachialis",
+   "kind": "catalog",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "upper-limb",
+   "source": "Brachialis muscle.r"
+  },
+  {
+   "prim": "brachioradialis__l",
+   "id": "brachioradialis",
+   "kind": "catalog",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "upper-limb",
+   "source": "Brachioradialis muscle.l"
+  },
+  {
+   "prim": "brachioradialis__r",
+   "id": "brachioradialis",
+   "kind": "catalog",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "upper-limb",
+   "source": "Brachioradialis muscle.r"
+  },
+  {
+   "prim": "za_bucinator__l",
+   "id": "za_bucinator",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Bucinator.l"
+  },
+  {
+   "prim": "za_bucinator__r",
+   "id": "za_bucinator",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Bucinator.r"
+  },
+  {
+   "prim": "calcaneal_tendon__l",
+   "id": "calcaneal_tendon",
+   "kind": "catalog",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "Calcaneal tendon.l"
+  },
+  {
+   "prim": "calcaneal_tendon__r",
+   "id": "calcaneal_tendon",
+   "kind": "catalog",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "Calcaneal tendon.r"
+  },
+  {
+   "prim": "pectoralis_major__l__clavicular_head_of_pectoralis_major_muscle",
+   "id": "pectoralis_major",
+   "kind": "catalog",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "trunk",
+   "source": "Clavicular head of pectoralis major muscle.l"
+  },
+  {
+   "prim": "pectoralis_major__r__clavicular_head_of_pectoralis_major_muscle",
+   "id": "pectoralis_major",
+   "kind": "catalog",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "trunk",
+   "source": "Clavicular head of pectoralis major muscle.r"
+  },
+  {
+   "prim": "deltoid__l__clavicular_part_of_deltoid_muscle",
+   "id": "deltoid",
+   "kind": "catalog",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "trunk",
+   "source": "Clavicular part of deltoid muscle.l"
+  },
+  {
+   "prim": "deltoid__r__clavicular_part_of_deltoid_muscle",
+   "id": "deltoid",
+   "kind": "catalog",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "trunk",
+   "source": "Clavicular part of deltoid muscle.r"
+  },
+  {
+   "prim": "clavipectoral_fascia__l",
+   "id": "clavipectoral_fascia",
+   "kind": "catalog",
+   "side": "l",
+   "layer": "fascia",
+   "chunk": "bundle",
+   "source": "Clavipectoral fascia.l"
+  },
+  {
+   "prim": "clavipectoral_fascia__r",
+   "id": "clavipectoral_fascia",
+   "kind": "catalog",
+   "side": "r",
+   "layer": "fascia",
+   "chunk": "bundle",
+   "source": "Clavipectoral fascia.r"
+  },
+  {
+   "prim": "za_coccygeus_muscle__l",
+   "id": "za_coccygeus_muscle",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "Coccygeus muscle.l"
+  },
+  {
+   "prim": "za_coccygeus_muscle__r",
+   "id": "za_coccygeus_muscle",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "Coccygeus muscle.r"
+  },
+  {
+   "prim": "za_common_tendinous_ring__l",
+   "id": "za_common_tendinous_ring",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Common tendinous ring.l"
+  },
+  {
+   "prim": "za_common_tendinous_ring__r",
+   "id": "za_common_tendinous_ring",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Common tendinous ring.r"
+  },
+  {
+   "prim": "coracobrachialis__l",
+   "id": "coracobrachialis",
+   "kind": "catalog",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "trunk",
+   "source": "Coracobrachialis muscle.l"
+  },
+  {
+   "prim": "coracobrachialis__r",
+   "id": "coracobrachialis",
+   "kind": "catalog",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "trunk",
+   "source": "Coracobrachialis muscle.r"
+  },
+  {
+   "prim": "za_corrugator_supercilii__l",
+   "id": "za_corrugator_supercilii",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Corrugator supercilii.l"
+  },
+  {
+   "prim": "za_corrugator_supercilii__r",
+   "id": "za_corrugator_supercilii",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Corrugator supercilii.r"
+  },
+  {
+   "prim": "za_crural_fascia__l",
+   "id": "za_crural_fascia",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "Crural fascia.l"
+  },
+  {
+   "prim": "za_crural_fascia__r",
+   "id": "za_crural_fascia",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "Crural fascia.r"
+  },
+  {
+   "prim": "za_deep_head_of_flexor_pollicis_brevis__l",
+   "id": "za_deep_head_of_flexor_pollicis_brevis",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "upper-limb",
+   "source": "Deep head of flexor pollicis brevis.l"
+  },
+  {
+   "prim": "za_deep_head_of_flexor_pollicis_brevis__r",
+   "id": "za_deep_head_of_flexor_pollicis_brevis",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "upper-limb",
+   "source": "Deep head of flexor pollicis brevis.r"
+  },
+  {
+   "prim": "pronator_teres__l",
+   "id": "pronator_teres",
+   "kind": "catalog",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "upper-limb",
+   "source": "Deep head of pronator teres.l"
+  },
+  {
+   "prim": "pronator_teres__r",
+   "id": "pronator_teres",
+   "kind": "catalog",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "upper-limb",
+   "source": "Deep head of pronator teres.r"
+  },
+  {
+   "prim": "za_deep_part_of_masseter__l",
+   "id": "za_deep_part_of_masseter",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Deep part of masseter.l"
+  },
+  {
+   "prim": "za_deep_part_of_masseter__r",
+   "id": "za_deep_part_of_masseter",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Deep part of masseter.r"
+  },
+  {
+   "prim": "za_deltoid_fascia__l",
+   "id": "za_deltoid_fascia",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "upper-limb",
+   "source": "Deltoid fascia.l"
+  },
+  {
+   "prim": "za_deltoid_fascia__r",
+   "id": "za_deltoid_fascia",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "upper-limb",
+   "source": "Deltoid fascia.r"
+  },
+  {
+   "prim": "za_depressor_anguli_oris__l",
+   "id": "za_depressor_anguli_oris",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Depressor anguli oris.l"
+  },
+  {
+   "prim": "za_depressor_anguli_oris__r",
+   "id": "za_depressor_anguli_oris",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Depressor anguli oris.r"
+  },
+  {
+   "prim": "za_depressor_labii_inferioris__l",
+   "id": "za_depressor_labii_inferioris",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Depressor labii inferioris.l"
+  },
+  {
+   "prim": "za_depressor_labii_inferioris__r",
+   "id": "za_depressor_labii_inferioris",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Depressor labii inferioris.r"
+  },
+  {
+   "prim": "za_depressor_septi_nasi__l",
+   "id": "za_depressor_septi_nasi",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Depressor septi nasi.l"
+  },
+  {
+   "prim": "za_depressor_septi_nasi__r",
+   "id": "za_depressor_septi_nasi",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Depressor septi nasi.r"
+  },
+  {
+   "prim": "trapezius__l__descending_part_of_trapezius_muscle",
+   "id": "trapezius",
+   "kind": "catalog",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "trunk",
+   "source": "Descending part of trapezius muscle.l"
+  },
+  {
+   "prim": "trapezius__r__descending_part_of_trapezius_muscle",
+   "id": "trapezius",
+   "kind": "catalog",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "trunk",
+   "source": "Descending part of trapezius muscle.r"
+  },
+  {
+   "prim": "diaphragm",
+   "id": "diaphragm",
+   "kind": "catalog",
+   "side": "",
+   "layer": "muscle",
+   "chunk": "trunk",
+   "source": "Diaphragm"
+  },
+  {
+   "prim": "za_diaphragmatic_fascia",
+   "id": "za_diaphragmatic_fascia",
+   "kind": "other",
+   "side": "",
+   "layer": "fascia",
+   "chunk": "bundle",
+   "source": "Diaphragmatic fascia"
+  },
+  {
+   "prim": "za_dorsal_fascia_of_hand__l",
+   "id": "za_dorsal_fascia_of_hand",
+   "kind": "other",
+   "side": "l",
+   "layer": "fascia",
+   "chunk": "bundle",
+   "source": "Dorsal fascia of hand.l"
+  },
+  {
+   "prim": "za_dorsal_fascia_of_hand__r",
+   "id": "za_dorsal_fascia_of_hand",
+   "kind": "other",
+   "side": "r",
+   "layer": "fascia",
+   "chunk": "bundle",
+   "source": "Dorsal fascia of hand.r"
+  },
+  {
+   "prim": "za_dorsal_interossei_muscles_of_foot__l",
+   "id": "za_dorsal_interossei_muscles_of_foot",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "Dorsal interossei muscles of foot.l"
+  },
+  {
+   "prim": "za_dorsal_interossei_muscles_of_foot__r",
+   "id": "za_dorsal_interossei_muscles_of_foot",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "Dorsal interossei muscles of foot.r"
+  },
+  {
+   "prim": "za_dorsal_interossei_muscles_of_hand__l",
+   "id": "za_dorsal_interossei_muscles_of_hand",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "upper-limb",
+   "source": "Dorsal interossei muscles of hand.l"
+  },
+  {
+   "prim": "za_dorsal_interossei_muscles_of_hand__r",
+   "id": "za_dorsal_interossei_muscles_of_hand",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "upper-limb",
+   "source": "Dorsal interossei muscles of hand.r"
+  },
+  {
+   "prim": "za_dorsal_parts_of_lateral_intertransversarii_lumborum_muscles__l",
+   "id": "za_dorsal_parts_of_lateral_intertransversarii_lumborum_muscles",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "trunk",
+   "source": "Dorsal parts of lateral intertransversarii lumborum muscles.l"
+  },
+  {
+   "prim": "za_dorsal_parts_of_lateral_intertransversarii_lumborum_muscles__r",
+   "id": "za_dorsal_parts_of_lateral_intertransversarii_lumborum_muscles",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "trunk",
+   "source": "Dorsal parts of lateral intertransversarii lumborum muscles.r"
+  },
+  {
+   "prim": "epicranial_aponeurosis__l",
+   "id": "epicranial_aponeurosis",
+   "kind": "catalog",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Epicranial aponeurosis.l"
+  },
+  {
+   "prim": "epicranial_aponeurosis__r",
+   "id": "epicranial_aponeurosis",
+   "kind": "catalog",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Epicranial aponeurosis.r"
+  },
+  {
+   "prim": "za_extensor_carpi_radialis_brevis__l",
+   "id": "za_extensor_carpi_radialis_brevis",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "upper-limb",
+   "source": "Extensor carpi radialis brevis.l"
+  },
+  {
+   "prim": "za_extensor_carpi_radialis_brevis__r",
+   "id": "za_extensor_carpi_radialis_brevis",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "upper-limb",
+   "source": "Extensor carpi radialis brevis.r"
+  },
+  {
+   "prim": "extensor_carpi_radialis_longus__l",
+   "id": "extensor_carpi_radialis_longus",
+   "kind": "catalog",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "upper-limb",
+   "source": "Extensor carpi radialis longus.l"
+  },
+  {
+   "prim": "extensor_carpi_radialis_longus__r",
+   "id": "extensor_carpi_radialis_longus",
+   "kind": "catalog",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "upper-limb",
+   "source": "Extensor carpi radialis longus.r"
+  },
+  {
+   "prim": "za_extensor_digiti_minimi__l",
+   "id": "za_extensor_digiti_minimi",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "upper-limb",
+   "source": "Extensor digiti minimi.l"
+  },
+  {
+   "prim": "za_extensor_digiti_minimi__r",
+   "id": "za_extensor_digiti_minimi",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "upper-limb",
+   "source": "Extensor digiti minimi.r"
+  },
+  {
+   "prim": "za_extensor_digitorum_brevis__l",
+   "id": "za_extensor_digitorum_brevis",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "Extensor digitorum brevis.l"
+  },
+  {
+   "prim": "za_extensor_digitorum_brevis__r",
+   "id": "za_extensor_digitorum_brevis",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "Extensor digitorum brevis.r"
+  },
+  {
+   "prim": "extensor_digitorum_longus__l",
+   "id": "extensor_digitorum_longus",
+   "kind": "catalog",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "Extensor digitorum longus.l"
+  },
+  {
+   "prim": "extensor_digitorum_longus__r",
+   "id": "extensor_digitorum_longus",
+   "kind": "catalog",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "Extensor digitorum longus.r"
+  },
+  {
+   "prim": "extensor_digitorum__l",
+   "id": "extensor_digitorum",
+   "kind": "catalog",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "upper-limb",
+   "source": "Extensor digitorum.l"
+  },
+  {
+   "prim": "extensor_digitorum__r",
+   "id": "extensor_digitorum",
+   "kind": "catalog",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "upper-limb",
+   "source": "Extensor digitorum.r"
+  },
+  {
+   "prim": "za_extensor_hallucis_brevis__l",
+   "id": "za_extensor_hallucis_brevis",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "Extensor hallucis brevis.l"
+  },
+  {
+   "prim": "za_extensor_hallucis_brevis__r",
+   "id": "za_extensor_hallucis_brevis",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "Extensor hallucis brevis.r"
+  },
+  {
+   "prim": "za_extensor_hallucis_longus__l",
+   "id": "za_extensor_hallucis_longus",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "Extensor hallucis longus.l"
+  },
+  {
+   "prim": "za_extensor_hallucis_longus__r",
+   "id": "za_extensor_hallucis_longus",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "Extensor hallucis longus.r"
+  },
+  {
+   "prim": "za_extensor_indicis__l",
+   "id": "za_extensor_indicis",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "upper-limb",
+   "source": "Extensor indicis.l"
+  },
+  {
+   "prim": "za_extensor_indicis__r",
+   "id": "za_extensor_indicis",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "upper-limb",
+   "source": "Extensor indicis.r"
+  },
+  {
+   "prim": "za_extensor_pollicis_brevis__l",
+   "id": "za_extensor_pollicis_brevis",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "upper-limb",
+   "source": "Extensor pollicis brevis.l"
+  },
+  {
+   "prim": "za_extensor_pollicis_brevis__r",
+   "id": "za_extensor_pollicis_brevis",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "upper-limb",
+   "source": "Extensor pollicis brevis.r"
+  },
+  {
+   "prim": "za_extensor_pollicis_longus__l",
+   "id": "za_extensor_pollicis_longus",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "upper-limb",
+   "source": "Extensor pollicis longus.l"
+  },
+  {
+   "prim": "za_extensor_pollicis_longus__r",
+   "id": "za_extensor_pollicis_longus",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "upper-limb",
+   "source": "Extensor pollicis longus.r"
+  },
+  {
+   "prim": "za_extensor_retinaculum_of_wrist__l",
+   "id": "za_extensor_retinaculum_of_wrist",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "upper-limb",
+   "source": "Extensor retinaculum of wrist.l"
+  },
+  {
+   "prim": "za_extensor_retinaculum_of_wrist__r",
+   "id": "za_extensor_retinaculum_of_wrist",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "upper-limb",
+   "source": "Extensor retinaculum of wrist.r"
+  },
+  {
+   "prim": "external_oblique__l",
+   "id": "external_oblique",
+   "kind": "catalog",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "trunk",
+   "source": "External abdominal oblique muscle.l"
+  },
+  {
+   "prim": "external_oblique__r",
+   "id": "external_oblique",
+   "kind": "catalog",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "trunk",
+   "source": "External abdominal oblique muscle.r"
+  },
+  {
+   "prim": "za_external_anal_sphincter__l",
+   "id": "za_external_anal_sphincter",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "External anal sphincter.l"
+  },
+  {
+   "prim": "za_external_anal_sphincter__r",
+   "id": "za_external_anal_sphincter",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "External anal sphincter.r"
+  },
+  {
+   "prim": "intercostals__l",
+   "id": "intercostals",
+   "kind": "catalog",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "trunk",
+   "source": "External intercostal muscles.l"
+  },
+  {
+   "prim": "intercostals__r",
+   "id": "intercostals",
+   "kind": "catalog",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "trunk",
+   "source": "External intercostal muscles.r"
+  },
+  {
+   "prim": "za_external_part_of_thyro_arytenoid_muscle__l",
+   "id": "za_external_part_of_thyro_arytenoid_muscle",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "External part of thyro-arytenoid muscle.l"
+  },
+  {
+   "prim": "za_external_part_of_thyro_arytenoid_muscle__r",
+   "id": "za_external_part_of_thyro_arytenoid_muscle",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "External part of thyro-arytenoid muscle.r"
+  },
+  {
+   "prim": "za_fascia_lata__l",
+   "id": "za_fascia_lata",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "Fascia lata.l"
+  },
+  {
+   "prim": "za_fascia_lata__r",
+   "id": "za_fascia_lata",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "Fascia lata.r"
+  },
+  {
+   "prim": "fibularis_brevis__l",
+   "id": "fibularis_brevis",
+   "kind": "catalog",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "Fibularis brevis muscle.l"
+  },
+  {
+   "prim": "fibularis_brevis__r",
+   "id": "fibularis_brevis",
+   "kind": "catalog",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "Fibularis brevis muscle.r"
+  },
+  {
+   "prim": "fibularis_longus__l",
+   "id": "fibularis_longus",
+   "kind": "catalog",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "Fibularis longus muscle.l"
+  },
+  {
+   "prim": "fibularis_longus__r",
+   "id": "fibularis_longus",
+   "kind": "catalog",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "Fibularis longus muscle.r"
+  },
+  {
+   "prim": "za_fibularis_tertius_muscle__l",
+   "id": "za_fibularis_tertius_muscle",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "Fibularis tertius muscle.l"
+  },
+  {
+   "prim": "za_fibularis_tertius_muscle__r",
+   "id": "za_fibularis_tertius_muscle",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "Fibularis tertius muscle.r"
+  },
+  {
+   "prim": "flexor_carpi_radialis__l",
+   "id": "flexor_carpi_radialis",
+   "kind": "catalog",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "upper-limb",
+   "source": "Flexor carpi radialis.l"
+  },
+  {
+   "prim": "flexor_carpi_radialis__r",
+   "id": "flexor_carpi_radialis",
+   "kind": "catalog",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "upper-limb",
+   "source": "Flexor carpi radialis.r"
+  },
+  {
+   "prim": "za_flexor_digiti_minimi_of_foot__l",
+   "id": "za_flexor_digiti_minimi_of_foot",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "Flexor digiti minimi of foot.l"
+  },
+  {
+   "prim": "za_flexor_digiti_minimi_of_foot__r",
+   "id": "za_flexor_digiti_minimi_of_foot",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "Flexor digiti minimi of foot.r"
+  },
+  {
+   "prim": "za_flexor_digiti_minimi_of_hand__l",
+   "id": "za_flexor_digiti_minimi_of_hand",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "upper-limb",
+   "source": "Flexor digiti minimi of hand.l"
+  },
+  {
+   "prim": "za_flexor_digiti_minimi_of_hand__r",
+   "id": "za_flexor_digiti_minimi_of_hand",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "upper-limb",
+   "source": "Flexor digiti minimi of hand.r"
+  },
+  {
+   "prim": "flexor_digitorum_brevis__l",
+   "id": "flexor_digitorum_brevis",
+   "kind": "catalog",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "Flexor digitorum brevis.l"
+  },
+  {
+   "prim": "flexor_digitorum_brevis__r",
+   "id": "flexor_digitorum_brevis",
+   "kind": "catalog",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "Flexor digitorum brevis.r"
+  },
+  {
+   "prim": "flexor_digitorum_longus__l",
+   "id": "flexor_digitorum_longus",
+   "kind": "catalog",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "Flexor digitorum longus.l"
+  },
+  {
+   "prim": "flexor_digitorum_longus__r",
+   "id": "flexor_digitorum_longus",
+   "kind": "catalog",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "Flexor digitorum longus.r"
+  },
+  {
+   "prim": "za_flexor_digitorum_profundus__l",
+   "id": "za_flexor_digitorum_profundus",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "upper-limb",
+   "source": "Flexor digitorum profundus.l"
+  },
+  {
+   "prim": "za_flexor_digitorum_profundus__r",
+   "id": "za_flexor_digitorum_profundus",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "upper-limb",
+   "source": "Flexor digitorum profundus.r"
+  },
+  {
+   "prim": "flexor_hallucis_longus__l",
+   "id": "flexor_hallucis_longus",
+   "kind": "catalog",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "Flexor hallucis longus.l"
+  },
+  {
+   "prim": "flexor_hallucis_longus__r",
+   "id": "flexor_hallucis_longus",
+   "kind": "catalog",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "Flexor hallucis longus.r"
+  },
+  {
+   "prim": "za_flexor_pollicis_longus__l",
+   "id": "za_flexor_pollicis_longus",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "upper-limb",
+   "source": "Flexor pollicis longus.l"
+  },
+  {
+   "prim": "za_flexor_pollicis_longus__r",
+   "id": "za_flexor_pollicis_longus",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "upper-limb",
+   "source": "Flexor pollicis longus.r"
+  },
+  {
+   "prim": "za_flexor_retinaculum_of_ankle__l",
+   "id": "za_flexor_retinaculum_of_ankle",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "Flexor retinaculum of ankle.l"
+  },
+  {
+   "prim": "za_flexor_retinaculum_of_ankle__r",
+   "id": "za_flexor_retinaculum_of_ankle",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "Flexor retinaculum of ankle.r"
+  },
+  {
+   "prim": "flexor_retinaculum_hand__l",
+   "id": "flexor_retinaculum_hand",
+   "kind": "catalog",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "upper-limb",
+   "source": "Flexor retinaculum of wrist.l"
+  },
+  {
+   "prim": "flexor_retinaculum_hand__r",
+   "id": "flexor_retinaculum_hand",
+   "kind": "catalog",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "upper-limb",
+   "source": "Flexor retinaculum of wrist.r"
+  },
+  {
+   "prim": "occipitofrontalis__l",
+   "id": "occipitofrontalis",
+   "kind": "catalog",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Frontalis muscle.l"
+  },
+  {
+   "prim": "occipitofrontalis__r",
+   "id": "occipitofrontalis",
+   "kind": "catalog",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Frontalis muscle.r"
+  },
+  {
+   "prim": "za_genioglossus_muscle__l",
+   "id": "za_genioglossus_muscle",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Genioglossus muscle.l"
+  },
+  {
+   "prim": "za_genioglossus_muscle__r",
+   "id": "za_genioglossus_muscle",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Genioglossus muscle.r"
+  },
+  {
+   "prim": "za_geniohyoid_muscle__l",
+   "id": "za_geniohyoid_muscle",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Geniohyoid muscle.l"
+  },
+  {
+   "prim": "za_geniohyoid_muscle__r",
+   "id": "za_geniohyoid_muscle",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Geniohyoid muscle.r"
+  },
+  {
+   "prim": "gluteus_maximus__l",
+   "id": "gluteus_maximus",
+   "kind": "catalog",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "Gluteus maximus muscle.l"
+  },
+  {
+   "prim": "gluteus_maximus__r",
+   "id": "gluteus_maximus",
+   "kind": "catalog",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "Gluteus maximus muscle.r"
+  },
+  {
+   "prim": "gluteus_medius__l",
+   "id": "gluteus_medius",
+   "kind": "catalog",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "trunk",
+   "source": "Gluteus medius muscle.l"
+  },
+  {
+   "prim": "gluteus_medius__r",
+   "id": "gluteus_medius",
+   "kind": "catalog",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "trunk",
+   "source": "Gluteus medius muscle.r"
+  },
+  {
+   "prim": "gluteus_minimus__l",
+   "id": "gluteus_minimus",
+   "kind": "catalog",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "trunk",
+   "source": "Gluteus minimus muscle.l"
+  },
+  {
+   "prim": "gluteus_minimus__r",
+   "id": "gluteus_minimus",
+   "kind": "catalog",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "trunk",
+   "source": "Gluteus minimus muscle.r"
+  },
+  {
+   "prim": "gracilis__l",
+   "id": "gracilis",
+   "kind": "catalog",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "Gracilis muscle.l"
+  },
+  {
+   "prim": "gracilis__r",
+   "id": "gracilis",
+   "kind": "catalog",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "Gracilis muscle.r"
+  },
+  {
+   "prim": "za_humeral_head_of_extensor_carpi_ulnaris__l",
+   "id": "za_humeral_head_of_extensor_carpi_ulnaris",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "upper-limb",
+   "source": "Humeral head of extensor carpi ulnaris.l"
+  },
+  {
+   "prim": "za_humeral_head_of_extensor_carpi_ulnaris__r",
+   "id": "za_humeral_head_of_extensor_carpi_ulnaris",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "upper-limb",
+   "source": "Humeral head of extensor carpi ulnaris.r"
+  },
+  {
+   "prim": "za_humeral_head_of_flexor_carpi_ulnaris__l",
+   "id": "za_humeral_head_of_flexor_carpi_ulnaris",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "upper-limb",
+   "source": "Humeral head of flexor carpi ulnaris.l"
+  },
+  {
+   "prim": "za_humeral_head_of_flexor_carpi_ulnaris__r",
+   "id": "za_humeral_head_of_flexor_carpi_ulnaris",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "upper-limb",
+   "source": "Humeral head of flexor carpi ulnaris.r"
+  },
+  {
+   "prim": "flexor_digitorum_superficialis__l",
+   "id": "flexor_digitorum_superficialis",
+   "kind": "catalog",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "upper-limb",
+   "source": "Humero-ulnar head of flexor digitorum superficialis.l"
+  },
+  {
+   "prim": "flexor_digitorum_superficialis__r",
+   "id": "flexor_digitorum_superficialis",
+   "kind": "catalog",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "upper-limb",
+   "source": "Humero-ulnar head of flexor digitorum superficialis.r"
+  },
+  {
+   "prim": "za_hyoglossus_muscle__l",
+   "id": "za_hyoglossus_muscle",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Hyoglossus muscle.l"
+  },
+  {
+   "prim": "za_hyoglossus_muscle__r",
+   "id": "za_hyoglossus_muscle",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Hyoglossus muscle.r"
+  },
+  {
+   "prim": "iliacus__l",
+   "id": "iliacus",
+   "kind": "catalog",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "trunk",
+   "source": "Iliacus muscle.l"
+  },
+  {
+   "prim": "iliacus__r",
+   "id": "iliacus",
+   "kind": "catalog",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "trunk",
+   "source": "Iliacus muscle.r"
+  },
+  {
+   "prim": "levator_ani__l",
+   "id": "levator_ani",
+   "kind": "catalog",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "Iliococcygeus muscle.l"
+  },
+  {
+   "prim": "levator_ani__r",
+   "id": "levator_ani",
+   "kind": "catalog",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "Iliococcygeus muscle.r"
+  },
+  {
+   "prim": "erector_spinae__l",
+   "id": "erector_spinae",
+   "kind": "catalog",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "trunk",
+   "source": "Iliocostalis colli muscle"
+  },
+  {
+   "prim": "erector_spinae__r",
+   "id": "erector_spinae",
+   "kind": "catalog",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "trunk",
+   "source": "Iliocostalis colli muscle.r"
+  },
+  {
+   "prim": "erector_spinae__l__iliocostalis_lumborum_muscle",
+   "id": "erector_spinae",
+   "kind": "catalog",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "trunk",
+   "source": "Iliocostalis lumborum muscle.l"
+  },
+  {
+   "prim": "erector_spinae__r__iliocostalis_lumborum_muscle",
+   "id": "erector_spinae",
+   "kind": "catalog",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "trunk",
+   "source": "Iliocostalis lumborum muscle.r"
+  },
+  {
+   "prim": "erector_spinae__l__iliocostalis_thoracis_muscle",
+   "id": "erector_spinae",
+   "kind": "catalog",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "trunk",
+   "source": "Iliocostalis thoracis muscle.l"
+  },
+  {
+   "prim": "erector_spinae__r__iliocostalis_thoracis_muscle",
+   "id": "erector_spinae",
+   "kind": "catalog",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "trunk",
+   "source": "Iliocostalis thoracis muscle.r"
+  },
+  {
+   "prim": "za_iliopectineal_arch__l",
+   "id": "za_iliopectineal_arch",
+   "kind": "other",
+   "side": "l",
+   "layer": "fascia",
+   "chunk": "bundle",
+   "source": "Iliopectineal arch.l"
+  },
+  {
+   "prim": "za_iliopectineal_arch__r",
+   "id": "za_iliopectineal_arch",
+   "kind": "other",
+   "side": "r",
+   "layer": "fascia",
+   "chunk": "bundle",
+   "source": "Iliopectineal arch.r"
+  },
+  {
+   "prim": "za_iliopsoas_fascia__l",
+   "id": "za_iliopsoas_fascia",
+   "kind": "other",
+   "side": "l",
+   "layer": "fascia",
+   "chunk": "bundle",
+   "source": "Iliopsoas fascia.l"
+  },
+  {
+   "prim": "za_iliopsoas_fascia__r",
+   "id": "za_iliopsoas_fascia",
+   "kind": "other",
+   "side": "r",
+   "layer": "fascia",
+   "chunk": "bundle",
+   "source": "Iliopsoas fascia.r"
+  },
+  {
+   "prim": "iliotibial_tract__l",
+   "id": "iliotibial_tract",
+   "kind": "catalog",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "Iliotibial tract.l"
+  },
+  {
+   "prim": "iliotibial_tract__r",
+   "id": "iliotibial_tract",
+   "kind": "catalog",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "Iliotibial tract.r"
+  },
+  {
+   "prim": "za_inferior_extensor_retinaculum_of_ankle__l",
+   "id": "za_inferior_extensor_retinaculum_of_ankle",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "Inferior extensor retinaculum of ankle.l"
+  },
+  {
+   "prim": "za_inferior_extensor_retinaculum_of_ankle__r",
+   "id": "za_inferior_extensor_retinaculum_of_ankle",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "Inferior extensor retinaculum of ankle.r"
+  },
+  {
+   "prim": "za_inferior_fibular_retinaculum__l",
+   "id": "za_inferior_fibular_retinaculum",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "Inferior fibular retinaculum.l"
+  },
+  {
+   "prim": "za_inferior_fibular_retinaculum__r",
+   "id": "za_inferior_fibular_retinaculum",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "Inferior fibular retinaculum.r"
+  },
+  {
+   "prim": "za_inferior_gemellus_muscle__l",
+   "id": "za_inferior_gemellus_muscle",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "Inferior gemellus muscle.l"
+  },
+  {
+   "prim": "za_inferior_gemellus_muscle__r",
+   "id": "za_inferior_gemellus_muscle",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "Inferior gemellus muscle.r"
+  },
+  {
+   "prim": "za_inferior_head_of_lateral_pterygoid_muscle__l",
+   "id": "za_inferior_head_of_lateral_pterygoid_muscle",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Inferior head of lateral pterygoid muscle.l"
+  },
+  {
+   "prim": "za_inferior_head_of_lateral_pterygoid_muscle__r",
+   "id": "za_inferior_head_of_lateral_pterygoid_muscle",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Inferior head of lateral pterygoid muscle.r"
+  },
+  {
+   "prim": "za_inferior_oblique_muscle__l",
+   "id": "za_inferior_oblique_muscle",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Inferior oblique muscle.l"
+  },
+  {
+   "prim": "za_inferior_oblique_muscle__r",
+   "id": "za_inferior_oblique_muscle",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Inferior oblique muscle.r"
+  },
+  {
+   "prim": "za_inferior_pharyngeal_constrictor__l",
+   "id": "za_inferior_pharyngeal_constrictor",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Inferior pharyngeal constrictor.l"
+  },
+  {
+   "prim": "za_inferior_pharyngeal_constrictor__r",
+   "id": "za_inferior_pharyngeal_constrictor",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Inferior pharyngeal constrictor.r"
+  },
+  {
+   "prim": "za_inferior_rectus_muscle__l",
+   "id": "za_inferior_rectus_muscle",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Inferior rectus muscle.l"
+  },
+  {
+   "prim": "za_inferior_rectus_muscle__r",
+   "id": "za_inferior_rectus_muscle",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Inferior rectus muscle.r"
+  },
+  {
+   "prim": "za_inferior_tarsus__l",
+   "id": "za_inferior_tarsus",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Inferior tarsus.l"
+  },
+  {
+   "prim": "za_inferior_tarsus__r",
+   "id": "za_inferior_tarsus",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Inferior tarsus.r"
+  },
+  {
+   "prim": "infraspinatus__l",
+   "id": "infraspinatus",
+   "kind": "catalog",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "trunk",
+   "source": "Infraspinatus muscle.l"
+  },
+  {
+   "prim": "infraspinatus__r",
+   "id": "infraspinatus",
+   "kind": "catalog",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "trunk",
+   "source": "Infraspinatus muscle.r"
+  },
+  {
+   "prim": "za_inguinal_ligament__l",
+   "id": "za_inguinal_ligament",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "Inguinal ligament.l"
+  },
+  {
+   "prim": "za_inguinal_ligament__r",
+   "id": "za_inguinal_ligament",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "Inguinal ligament.r"
+  },
+  {
+   "prim": "za_innermost_intercostal_muscles__l",
+   "id": "za_innermost_intercostal_muscles",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "trunk",
+   "source": "Innermost intercostal muscles.l"
+  },
+  {
+   "prim": "za_innermost_intercostal_muscles__r",
+   "id": "za_innermost_intercostal_muscles",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "trunk",
+   "source": "Innermost intercostal muscles.r"
+  },
+  {
+   "prim": "digastric__l__intermediate_tendon_of_digastric_muscle",
+   "id": "digastric",
+   "kind": "catalog",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Intermediate tendon of digastric muscle.l"
+  },
+  {
+   "prim": "digastric__r__intermediate_tendon_of_digastric_muscle",
+   "id": "digastric",
+   "kind": "catalog",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Intermediate tendon of digastric muscle.r"
+  },
+  {
+   "prim": "internal_oblique__l",
+   "id": "internal_oblique",
+   "kind": "catalog",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "trunk",
+   "source": "Internal abdominal oblique muscle.l"
+  },
+  {
+   "prim": "internal_oblique__r",
+   "id": "internal_oblique",
+   "kind": "catalog",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "trunk",
+   "source": "Internal abdominal oblique muscle.r"
+  },
+  {
+   "prim": "intercostals__l__internal_intercostal_muscles",
+   "id": "intercostals",
+   "kind": "catalog",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "trunk",
+   "source": "Internal intercostal muscles.l"
+  },
+  {
+   "prim": "intercostals__r__internal_intercostal_muscles",
+   "id": "intercostals",
+   "kind": "catalog",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "trunk",
+   "source": "Internal intercostal muscles.r"
+  },
+  {
+   "prim": "za_interspinales_colli_muscles__l",
+   "id": "za_interspinales_colli_muscles",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Interspinales colli muscles.l"
+  },
+  {
+   "prim": "za_interspinales_colli_muscles__r",
+   "id": "za_interspinales_colli_muscles",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Interspinales colli muscles.r"
+  },
+  {
+   "prim": "za_interspinales_lumborum_muscles__l",
+   "id": "za_interspinales_lumborum_muscles",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "trunk",
+   "source": "Interspinales lumborum muscles.l"
+  },
+  {
+   "prim": "za_interspinales_lumborum_muscles__r",
+   "id": "za_interspinales_lumborum_muscles",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "trunk",
+   "source": "Interspinales lumborum muscles.r"
+  },
+  {
+   "prim": "za_interspinales_thoracis_muscles__l",
+   "id": "za_interspinales_thoracis_muscles",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "trunk",
+   "source": "Interspinales thoracis muscles.l"
+  },
+  {
+   "prim": "za_interspinales_thoracis_muscles__r",
+   "id": "za_interspinales_thoracis_muscles",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "trunk",
+   "source": "Interspinales thoracis muscles.r"
+  },
+  {
+   "prim": "za_investing_abdominal_fascia__l",
+   "id": "za_investing_abdominal_fascia",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "trunk",
+   "source": "Investing abdominal fascia.l"
+  },
+  {
+   "prim": "za_investing_abdominal_fascia__r",
+   "id": "za_investing_abdominal_fascia",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "trunk",
+   "source": "Investing abdominal fascia.r"
+  },
+  {
+   "prim": "za_lateral_crico_arytenoid_muscle__l",
+   "id": "za_lateral_crico_arytenoid_muscle",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Lateral crico-arytenoid muscle.l"
+  },
+  {
+   "prim": "za_lateral_crico_arytenoid_muscle__r",
+   "id": "za_lateral_crico_arytenoid_muscle",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Lateral crico-arytenoid muscle.r"
+  },
+  {
+   "prim": "za_lateral_head_of_flexor_hallucis_brevis__l",
+   "id": "za_lateral_head_of_flexor_hallucis_brevis",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "Lateral head of flexor hallucis brevis.l"
+  },
+  {
+   "prim": "za_lateral_head_of_flexor_hallucis_brevis__r",
+   "id": "za_lateral_head_of_flexor_hallucis_brevis",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "Lateral head of flexor hallucis brevis.r"
+  },
+  {
+   "prim": "gastrocnemius__l",
+   "id": "gastrocnemius",
+   "kind": "catalog",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "Lateral head of gastrocnemius.l"
+  },
+  {
+   "prim": "gastrocnemius__r",
+   "id": "gastrocnemius",
+   "kind": "catalog",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "Lateral head of gastrocnemius.r"
+  },
+  {
+   "prim": "triceps_brachii__l",
+   "id": "triceps_brachii",
+   "kind": "catalog",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "upper-limb",
+   "source": "Lateral head of triceps brachii.l"
+  },
+  {
+   "prim": "triceps_brachii__r",
+   "id": "triceps_brachii",
+   "kind": "catalog",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "upper-limb",
+   "source": "Lateral head of triceps brachii.r"
+  },
+  {
+   "prim": "lateral_intermuscular_septum_arm__l",
+   "id": "lateral_intermuscular_septum_arm",
+   "kind": "catalog",
+   "side": "l",
+   "layer": "fascia",
+   "chunk": "bundle",
+   "source": "Lateral intermuscular septum of arm.l"
+  },
+  {
+   "prim": "lateral_intermuscular_septum_arm__r",
+   "id": "lateral_intermuscular_septum_arm",
+   "kind": "catalog",
+   "side": "r",
+   "layer": "fascia",
+   "chunk": "bundle",
+   "source": "Lateral intermuscular septum of arm.r"
+  },
+  {
+   "prim": "za_lateral_patellar_retinaculum__l",
+   "id": "za_lateral_patellar_retinaculum",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "Lateral patellar retinaculum.l"
+  },
+  {
+   "prim": "za_lateral_patellar_retinaculum__r",
+   "id": "za_lateral_patellar_retinaculum",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "Lateral patellar retinaculum.r"
+  },
+  {
+   "prim": "za_lateral_rectus_muscle__l",
+   "id": "za_lateral_rectus_muscle",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Lateral rectus muscle.l"
+  },
+  {
+   "prim": "za_lateral_rectus_muscle__r",
+   "id": "za_lateral_rectus_muscle",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Lateral rectus muscle.r"
+  },
+  {
+   "prim": "latissimus_dorsi__l",
+   "id": "latissimus_dorsi",
+   "kind": "catalog",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "trunk",
+   "source": "Latissimus dorsi muscle.l"
+  },
+  {
+   "prim": "latissimus_dorsi__r",
+   "id": "latissimus_dorsi",
+   "kind": "catalog",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "trunk",
+   "source": "Latissimus dorsi muscle.r"
+  },
+  {
+   "prim": "za_levator_anguli_oris__l",
+   "id": "za_levator_anguli_oris",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Levator anguli oris.l"
+  },
+  {
+   "prim": "za_levator_anguli_oris__r",
+   "id": "za_levator_anguli_oris",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Levator anguli oris.r"
+  },
+  {
+   "prim": "za_levator_labii_superioris__l",
+   "id": "za_levator_labii_superioris",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Levator labii superioris.l"
+  },
+  {
+   "prim": "za_levator_labii_superioris__r",
+   "id": "za_levator_labii_superioris",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Levator labii superioris.r"
+  },
+  {
+   "prim": "za_levator_nasolabialis__l",
+   "id": "za_levator_nasolabialis",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Levator nasolabialis.l"
+  },
+  {
+   "prim": "za_levator_nasolabialis__r",
+   "id": "za_levator_nasolabialis",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Levator nasolabialis.r"
+  },
+  {
+   "prim": "za_levator_palpebrae_superioris__l",
+   "id": "za_levator_palpebrae_superioris",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Levator palpebrae superioris.l"
+  },
+  {
+   "prim": "za_levator_palpebrae_superioris__r",
+   "id": "za_levator_palpebrae_superioris",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Levator palpebrae superioris.r"
+  },
+  {
+   "prim": "levator_scapulae__l",
+   "id": "levator_scapulae",
+   "kind": "catalog",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Levator scapulae.l"
+  },
+  {
+   "prim": "levator_scapulae__r",
+   "id": "levator_scapulae",
+   "kind": "catalog",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Levator scapulae.r"
+  },
+  {
+   "prim": "za_levatores_breves_costarum__l",
+   "id": "za_levatores_breves_costarum",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "trunk",
+   "source": "Levatores breves costarum.l"
+  },
+  {
+   "prim": "za_levatores_breves_costarum__r",
+   "id": "za_levatores_breves_costarum",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "trunk",
+   "source": "Levatores breves costarum.r"
+  },
+  {
+   "prim": "za_levatores_longi_costarum__l",
+   "id": "za_levatores_longi_costarum",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "trunk",
+   "source": "Levatores longi costarum.l"
+  },
+  {
+   "prim": "za_levatores_longi_costarum__r",
+   "id": "za_levatores_longi_costarum",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "trunk",
+   "source": "Levatores longi costarum.r"
+  },
+  {
+   "prim": "abdominal_aponeurosis",
+   "id": "abdominal_aponeurosis",
+   "kind": "catalog",
+   "side": "",
+   "layer": "muscle",
+   "chunk": "trunk",
+   "source": "Linea alba"
+  },
+  {
+   "prim": "biceps_brachii__l",
+   "id": "biceps_brachii",
+   "kind": "catalog",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "upper-limb",
+   "source": "Long head of biceps brachii.l"
+  },
+  {
+   "prim": "biceps_brachii__r",
+   "id": "biceps_brachii",
+   "kind": "catalog",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "upper-limb",
+   "source": "Long head of biceps brachii.r"
+  },
+  {
+   "prim": "biceps_femoris__l",
+   "id": "biceps_femoris",
+   "kind": "catalog",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "Long head of biceps femoris.l"
+  },
+  {
+   "prim": "biceps_femoris__r",
+   "id": "biceps_femoris",
+   "kind": "catalog",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "Long head of biceps femoris.r"
+  },
+  {
+   "prim": "triceps_brachii__l__long_head_of_triceps_brachii",
+   "id": "triceps_brachii",
+   "kind": "catalog",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "trunk",
+   "source": "Long head of triceps brachii.l"
+  },
+  {
+   "prim": "triceps_brachii__r__long_head_of_triceps_brachii",
+   "id": "triceps_brachii",
+   "kind": "catalog",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "trunk",
+   "source": "Long head of triceps brachii.r"
+  },
+  {
+   "prim": "erector_spinae__l__longissimus_capitis_muscle",
+   "id": "erector_spinae",
+   "kind": "catalog",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Longissimus capitis muscle.l"
+  },
+  {
+   "prim": "erector_spinae__r__longissimus_capitis_muscle",
+   "id": "erector_spinae",
+   "kind": "catalog",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Longissimus capitis muscle.r"
+  },
+  {
+   "prim": "erector_spinae__l__longissimus_colli_muscle",
+   "id": "erector_spinae",
+   "kind": "catalog",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Longissimus colli muscle.l"
+  },
+  {
+   "prim": "erector_spinae__r__longissimus_colli_muscle",
+   "id": "erector_spinae",
+   "kind": "catalog",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Longissimus colli muscle.r"
+  },
+  {
+   "prim": "erector_spinae__l__longissimus_thoracis_muscle",
+   "id": "erector_spinae",
+   "kind": "catalog",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "trunk",
+   "source": "Longissimus thoracis muscle.l"
+  },
+  {
+   "prim": "erector_spinae__r__longissimus_thoracis_muscle",
+   "id": "erector_spinae",
+   "kind": "catalog",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "trunk",
+   "source": "Longissimus thoracis muscle.r"
+  },
+  {
+   "prim": "longus_capitis__l",
+   "id": "longus_capitis",
+   "kind": "catalog",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Longus capitis muscle.l"
+  },
+  {
+   "prim": "longus_capitis__r",
+   "id": "longus_capitis",
+   "kind": "catalog",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Longus capitis muscle.r"
+  },
+  {
+   "prim": "longus_colli__l",
+   "id": "longus_colli",
+   "kind": "catalog",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Longus colli muscle.l"
+  },
+  {
+   "prim": "longus_colli__r",
+   "id": "longus_colli",
+   "kind": "catalog",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Longus colli muscle.r"
+  },
+  {
+   "prim": "za_lumbrical_muscles_of_foot__l",
+   "id": "za_lumbrical_muscles_of_foot",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "Lumbrical muscles of foot.l"
+  },
+  {
+   "prim": "za_lumbrical_muscles_of_foot__r",
+   "id": "za_lumbrical_muscles_of_foot",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "Lumbrical muscles of foot.r"
+  },
+  {
+   "prim": "za_lumbrical_muscles_of_hand__l",
+   "id": "za_lumbrical_muscles_of_hand",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "upper-limb",
+   "source": "Lumbrical muscles of hand.l"
+  },
+  {
+   "prim": "za_lumbrical_muscles_of_hand__r",
+   "id": "za_lumbrical_muscles_of_hand",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "upper-limb",
+   "source": "Lumbrical muscles of hand.r"
+  },
+  {
+   "prim": "za_masseteric_fascia__l",
+   "id": "za_masseteric_fascia",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Masseteric fascia.l"
+  },
+  {
+   "prim": "za_masseteric_fascia__r",
+   "id": "za_masseteric_fascia",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Masseteric fascia.r"
+  },
+  {
+   "prim": "za_medial_femoral_intermuscular_septum__l",
+   "id": "za_medial_femoral_intermuscular_septum",
+   "kind": "other",
+   "side": "l",
+   "layer": "fascia",
+   "chunk": "bundle",
+   "source": "Medial femoral intermuscular septum.l"
+  },
+  {
+   "prim": "za_medial_femoral_intermuscular_septum__r",
+   "id": "za_medial_femoral_intermuscular_septum",
+   "kind": "other",
+   "side": "r",
+   "layer": "fascia",
+   "chunk": "bundle",
+   "source": "Medial femoral intermuscular septum.r"
+  },
+  {
+   "prim": "za_medial_head_of_flexor_hallucis_brevis__l",
+   "id": "za_medial_head_of_flexor_hallucis_brevis",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "Medial head of flexor hallucis brevis.l"
+  },
+  {
+   "prim": "za_medial_head_of_flexor_hallucis_brevis__r",
+   "id": "za_medial_head_of_flexor_hallucis_brevis",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "Medial head of flexor hallucis brevis.r"
+  },
+  {
+   "prim": "gastrocnemius__l__medial_head_of_gastrocnemius",
+   "id": "gastrocnemius",
+   "kind": "catalog",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "Medial head of gastrocnemius.l"
+  },
+  {
+   "prim": "gastrocnemius__r__medial_head_of_gastrocnemius",
+   "id": "gastrocnemius",
+   "kind": "catalog",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "Medial head of gastrocnemius.r"
+  },
+  {
+   "prim": "triceps_brachii__l__medial_head_of_triceps_brachii",
+   "id": "triceps_brachii",
+   "kind": "catalog",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "upper-limb",
+   "source": "Medial head of triceps brachii.l"
+  },
+  {
+   "prim": "triceps_brachii__r__medial_head_of_triceps_brachii",
+   "id": "triceps_brachii",
+   "kind": "catalog",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "upper-limb",
+   "source": "Medial head of triceps brachii.r"
+  },
+  {
+   "prim": "medial_intermuscular_septum_arm__l",
+   "id": "medial_intermuscular_septum_arm",
+   "kind": "catalog",
+   "side": "l",
+   "layer": "fascia",
+   "chunk": "bundle",
+   "source": "Medial intermuscular septum of arm.l"
+  },
+  {
+   "prim": "medial_intermuscular_septum_arm__r",
+   "id": "medial_intermuscular_septum_arm",
+   "kind": "catalog",
+   "side": "r",
+   "layer": "fascia",
+   "chunk": "bundle",
+   "source": "Medial intermuscular septum of arm.r"
+  },
+  {
+   "prim": "za_medial_patellar_retinaculum__l",
+   "id": "za_medial_patellar_retinaculum",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "Medial patellar retinaculum.l"
+  },
+  {
+   "prim": "za_medial_patellar_retinaculum__r",
+   "id": "za_medial_patellar_retinaculum",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "Medial patellar retinaculum.r"
+  },
+  {
+   "prim": "za_medial_pterygoid_muscle__l",
+   "id": "za_medial_pterygoid_muscle",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Medial pterygoid muscle.l"
+  },
+  {
+   "prim": "za_medial_pterygoid_muscle__r",
+   "id": "za_medial_pterygoid_muscle",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Medial pterygoid muscle.r"
+  },
+  {
+   "prim": "za_medial_rectus_muscle__l",
+   "id": "za_medial_rectus_muscle",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Medial rectus muscle.l"
+  },
+  {
+   "prim": "za_medial_rectus_muscle__r",
+   "id": "za_medial_rectus_muscle",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Medial rectus muscle.r"
+  },
+  {
+   "prim": "za_mentalis_muscle__l",
+   "id": "za_mentalis_muscle",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Mentalis muscle.l"
+  },
+  {
+   "prim": "za_mentalis_muscle__r",
+   "id": "za_mentalis_muscle",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Mentalis muscle.r"
+  },
+  {
+   "prim": "za_middle_layer_of_thoracolumbar_fascia__l",
+   "id": "za_middle_layer_of_thoracolumbar_fascia",
+   "kind": "other",
+   "side": "l",
+   "layer": "fascia",
+   "chunk": "bundle",
+   "source": "Middle layer of thoracolumbar fascia.l"
+  },
+  {
+   "prim": "za_middle_layer_of_thoracolumbar_fascia__r",
+   "id": "za_middle_layer_of_thoracolumbar_fascia",
+   "kind": "other",
+   "side": "r",
+   "layer": "fascia",
+   "chunk": "bundle",
+   "source": "Middle layer of thoracolumbar fascia.r"
+  },
+  {
+   "prim": "za_middle_pharyngeal_constrictor__l",
+   "id": "za_middle_pharyngeal_constrictor",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Middle pharyngeal constrictor.l"
+  },
+  {
+   "prim": "za_middle_pharyngeal_constrictor__r",
+   "id": "za_middle_pharyngeal_constrictor",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Middle pharyngeal constrictor.r"
+  },
+  {
+   "prim": "za_multifidus_colli_muscle__l",
+   "id": "za_multifidus_colli_muscle",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Multifidus colli muscle.l"
+  },
+  {
+   "prim": "za_multifidus_colli_muscle__r",
+   "id": "za_multifidus_colli_muscle",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Multifidus colli muscle.r"
+  },
+  {
+   "prim": "za_multifidus_lumborum_muscle__l",
+   "id": "za_multifidus_lumborum_muscle",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "trunk",
+   "source": "Multifidus lumborum muscle.l"
+  },
+  {
+   "prim": "za_multifidus_lumborum_muscle__r",
+   "id": "za_multifidus_lumborum_muscle",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "trunk",
+   "source": "Multifidus lumborum muscle.r"
+  },
+  {
+   "prim": "za_multifidus_thoracis_muscle__l",
+   "id": "za_multifidus_thoracis_muscle",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "trunk",
+   "source": "Multifidus thoracis muscle.l"
+  },
+  {
+   "prim": "za_multifidus_thoracis_muscle__r",
+   "id": "za_multifidus_thoracis_muscle",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "trunk",
+   "source": "Multifidus thoracis muscle.r"
+  },
+  {
+   "prim": "za_mylohyoid_muscle__l",
+   "id": "za_mylohyoid_muscle",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Mylohyoid muscle.l"
+  },
+  {
+   "prim": "za_mylohyoid_muscle__r",
+   "id": "za_mylohyoid_muscle",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Mylohyoid muscle.r"
+  },
+  {
+   "prim": "za_nasalis_muscle__l",
+   "id": "za_nasalis_muscle",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Nasalis muscle.l"
+  },
+  {
+   "prim": "za_nasalis_muscle__r",
+   "id": "za_nasalis_muscle",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Nasalis muscle.r"
+  },
+  {
+   "prim": "za_oblique_head_of_adductor_hallucis__l",
+   "id": "za_oblique_head_of_adductor_hallucis",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "Oblique head of adductor hallucis.l"
+  },
+  {
+   "prim": "za_oblique_head_of_adductor_hallucis__r",
+   "id": "za_oblique_head_of_adductor_hallucis",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "Oblique head of adductor hallucis.r"
+  },
+  {
+   "prim": "za_oblique_head_of_adductor_pollicis__l",
+   "id": "za_oblique_head_of_adductor_pollicis",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "upper-limb",
+   "source": "Oblique head of adductor pollicis.l"
+  },
+  {
+   "prim": "za_oblique_head_of_adductor_pollicis__r",
+   "id": "za_oblique_head_of_adductor_pollicis",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "upper-limb",
+   "source": "Oblique head of adductor pollicis.r"
+  },
+  {
+   "prim": "za_oblique_part_of_cricothyroid_muscle__l",
+   "id": "za_oblique_part_of_cricothyroid_muscle",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Oblique part of cricothyroid muscle.l"
+  },
+  {
+   "prim": "za_oblique_part_of_cricothyroid_muscle__r",
+   "id": "za_oblique_part_of_cricothyroid_muscle",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Oblique part of cricothyroid muscle.r"
+  },
+  {
+   "prim": "za_obliquus_inferior_capitis_muscle__l",
+   "id": "za_obliquus_inferior_capitis_muscle",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Obliquus inferior capitis muscle.l"
+  },
+  {
+   "prim": "za_obliquus_inferior_capitis_muscle__r",
+   "id": "za_obliquus_inferior_capitis_muscle",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Obliquus inferior capitis muscle.r"
+  },
+  {
+   "prim": "za_obliquus_superior_capitis_muscle__l",
+   "id": "za_obliquus_superior_capitis_muscle",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Obliquus superior capitis muscle.l"
+  },
+  {
+   "prim": "za_obliquus_superior_capitis_muscle__r",
+   "id": "za_obliquus_superior_capitis_muscle",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Obliquus superior capitis muscle.r"
+  },
+  {
+   "prim": "za_obturator_externus__l",
+   "id": "za_obturator_externus",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "Obturator externus.l"
+  },
+  {
+   "prim": "za_obturator_externus__r",
+   "id": "za_obturator_externus",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "Obturator externus.r"
+  },
+  {
+   "prim": "za_obturator_internus__l",
+   "id": "za_obturator_internus",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "Obturator internus.l"
+  },
+  {
+   "prim": "za_obturator_internus__r",
+   "id": "za_obturator_internus",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "Obturator internus.r"
+  },
+  {
+   "prim": "occipitofrontalis__l__occipitalis_muscle",
+   "id": "occipitofrontalis",
+   "kind": "catalog",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Occipitalis muscle.l"
+  },
+  {
+   "prim": "occipitofrontalis__r__occipitalis_muscle",
+   "id": "occipitofrontalis",
+   "kind": "catalog",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Occipitalis muscle.r"
+  },
+  {
+   "prim": "za_omohyoid_muscle__l",
+   "id": "za_omohyoid_muscle",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Omohyoid muscle.l"
+  },
+  {
+   "prim": "za_omohyoid_muscle__r",
+   "id": "za_omohyoid_muscle",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Omohyoid muscle.r"
+  },
+  {
+   "prim": "za_opponens_digiti_minimi_muscle_of_hand__l",
+   "id": "za_opponens_digiti_minimi_muscle_of_hand",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "upper-limb",
+   "source": "Opponens digiti minimi muscle of hand.l"
+  },
+  {
+   "prim": "za_opponens_digiti_minimi_muscle_of_hand__r",
+   "id": "za_opponens_digiti_minimi_muscle_of_hand",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "upper-limb",
+   "source": "Opponens digiti minimi muscle of hand.r"
+  },
+  {
+   "prim": "za_opponens_pollicis_muscle__l",
+   "id": "za_opponens_pollicis_muscle",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "upper-limb",
+   "source": "Opponens pollicis muscle.l"
+  },
+  {
+   "prim": "za_opponens_pollicis_muscle__r",
+   "id": "za_opponens_pollicis_muscle",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "upper-limb",
+   "source": "Opponens pollicis muscle.r"
+  },
+  {
+   "prim": "za_orbicularis_oris_muscle__l",
+   "id": "za_orbicularis_oris_muscle",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Orbicularis oris muscle.l"
+  },
+  {
+   "prim": "za_orbicularis_oris_muscle__r",
+   "id": "za_orbicularis_oris_muscle",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Orbicularis oris muscle.r"
+  },
+  {
+   "prim": "za_orbital_part_of_orbicularis_oculi__l",
+   "id": "za_orbital_part_of_orbicularis_oculi",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Orbital part of orbicularis oculi.l"
+  },
+  {
+   "prim": "za_orbital_part_of_orbicularis_oculi__r",
+   "id": "za_orbital_part_of_orbicularis_oculi",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Orbital part of orbicularis oculi.r"
+  },
+  {
+   "prim": "za_palatopharyngeus_muscle__l",
+   "id": "za_palatopharyngeus_muscle",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Palatopharyngeus muscle.l"
+  },
+  {
+   "prim": "za_palatopharyngeus_muscle__r",
+   "id": "za_palatopharyngeus_muscle",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Palatopharyngeus muscle.r"
+  },
+  {
+   "prim": "za_palmar_aponeurosis__l",
+   "id": "za_palmar_aponeurosis",
+   "kind": "other",
+   "side": "l",
+   "layer": "fascia",
+   "chunk": "bundle",
+   "source": "Palmar aponeurosis.l"
+  },
+  {
+   "prim": "za_palmar_aponeurosis__r",
+   "id": "za_palmar_aponeurosis",
+   "kind": "other",
+   "side": "r",
+   "layer": "fascia",
+   "chunk": "bundle",
+   "source": "Palmar aponeurosis.r"
+  },
+  {
+   "prim": "za_palmar_interossei_muscles__l",
+   "id": "za_palmar_interossei_muscles",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "upper-limb",
+   "source": "Palmar interossei muscles.l"
+  },
+  {
+   "prim": "za_palmar_interossei_muscles__r",
+   "id": "za_palmar_interossei_muscles",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "upper-limb",
+   "source": "Palmar interossei muscles.r"
+  },
+  {
+   "prim": "za_palmaris_longus_muscle__l",
+   "id": "za_palmaris_longus_muscle",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "upper-limb",
+   "source": "Palmaris longus muscle.l"
+  },
+  {
+   "prim": "za_palmaris_longus_muscle__r",
+   "id": "za_palmaris_longus_muscle",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "upper-limb",
+   "source": "Palmaris longus muscle.r"
+  },
+  {
+   "prim": "za_palpebral_part_of_orbicularis_oculi__l",
+   "id": "za_palpebral_part_of_orbicularis_oculi",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Palpebral part of orbicularis oculi.l"
+  },
+  {
+   "prim": "za_palpebral_part_of_orbicularis_oculi__r",
+   "id": "za_palpebral_part_of_orbicularis_oculi",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Palpebral part of orbicularis oculi.r"
+  },
+  {
+   "prim": "pectineus__l",
+   "id": "pectineus",
+   "kind": "catalog",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "Pectineus muscle.l"
+  },
+  {
+   "prim": "pectineus__r",
+   "id": "pectineus",
+   "kind": "catalog",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "Pectineus muscle.r"
+  },
+  {
+   "prim": "za_pectoral_fascia__l",
+   "id": "za_pectoral_fascia",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "trunk",
+   "source": "Pectoral fascia.l"
+  },
+  {
+   "prim": "za_pectoral_fascia__r",
+   "id": "za_pectoral_fascia",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "trunk",
+   "source": "Pectoral fascia.r"
+  },
+  {
+   "prim": "pectoralis_minor__l",
+   "id": "pectoralis_minor",
+   "kind": "catalog",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "trunk",
+   "source": "Pectoralis minor muscle.l"
+  },
+  {
+   "prim": "pectoralis_minor__r",
+   "id": "pectoralis_minor",
+   "kind": "catalog",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "trunk",
+   "source": "Pectoralis minor muscle.r"
+  },
+  {
+   "prim": "za_piriformis_fascia__l",
+   "id": "za_piriformis_fascia",
+   "kind": "other",
+   "side": "l",
+   "layer": "fascia",
+   "chunk": "bundle",
+   "source": "Piriformis fascia.l"
+  },
+  {
+   "prim": "za_piriformis_fascia__r",
+   "id": "za_piriformis_fascia",
+   "kind": "other",
+   "side": "r",
+   "layer": "fascia",
+   "chunk": "bundle",
+   "source": "Piriformis fascia.r"
+  },
+  {
+   "prim": "piriformis__l",
+   "id": "piriformis",
+   "kind": "catalog",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "Piriformis muscle.l"
+  },
+  {
+   "prim": "piriformis__r",
+   "id": "piriformis",
+   "kind": "catalog",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "Piriformis muscle.r"
+  },
+  {
+   "prim": "plantar_aponeurosis__l",
+   "id": "plantar_aponeurosis",
+   "kind": "catalog",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "Plantar aponeurosis.l"
+  },
+  {
+   "prim": "plantar_aponeurosis__r",
+   "id": "plantar_aponeurosis",
+   "kind": "catalog",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "Plantar aponeurosis.r"
+  },
+  {
+   "prim": "za_plantar_interossei_muscles__l",
+   "id": "za_plantar_interossei_muscles",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "Plantar interossei muscles.l"
+  },
+  {
+   "prim": "za_plantar_interossei_muscles__r",
+   "id": "za_plantar_interossei_muscles",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "Plantar interossei muscles.r"
+  },
+  {
+   "prim": "za_plantaris_muscle__l",
+   "id": "za_plantaris_muscle",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "Plantaris muscle.l"
+  },
+  {
+   "prim": "za_plantaris_muscle__r",
+   "id": "za_plantaris_muscle",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "Plantaris muscle.r"
+  },
+  {
+   "prim": "za_platysma__l",
+   "id": "za_platysma",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Platysma.l"
+  },
+  {
+   "prim": "za_platysma__r",
+   "id": "za_platysma",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Platysma.r"
+  },
+  {
+   "prim": "za_popliteal_fascia__l",
+   "id": "za_popliteal_fascia",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "Popliteal fascia.l"
+  },
+  {
+   "prim": "za_popliteal_fascia__r",
+   "id": "za_popliteal_fascia",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "Popliteal fascia.r"
+  },
+  {
+   "prim": "popliteus__l",
+   "id": "popliteus",
+   "kind": "catalog",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "Popliteus muscle.l"
+  },
+  {
+   "prim": "popliteus__r",
+   "id": "popliteus",
+   "kind": "catalog",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "Popliteus muscle.r"
+  },
+  {
+   "prim": "digastric__l__posterior_belly_of_digastric_muscle",
+   "id": "digastric",
+   "kind": "catalog",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Posterior belly of digastric muscle.l"
+  },
+  {
+   "prim": "digastric__r__posterior_belly_of_digastric_muscle",
+   "id": "digastric",
+   "kind": "catalog",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Posterior belly of digastric muscle.r"
+  },
+  {
+   "prim": "za_posterior_crico_arytenoid_muscle__l",
+   "id": "za_posterior_crico_arytenoid_muscle",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Posterior crico-arytenoid muscle.l"
+  },
+  {
+   "prim": "za_posterior_crico_arytenoid_muscle__r",
+   "id": "za_posterior_crico_arytenoid_muscle",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Posterior crico-arytenoid muscle.r"
+  },
+  {
+   "prim": "za_posterior_intermuscular_septum_of_leg__l",
+   "id": "za_posterior_intermuscular_septum_of_leg",
+   "kind": "other",
+   "side": "l",
+   "layer": "fascia",
+   "chunk": "bundle",
+   "source": "Posterior intermuscular septum of leg.l"
+  },
+  {
+   "prim": "za_posterior_intermuscular_septum_of_leg__r",
+   "id": "za_posterior_intermuscular_septum_of_leg",
+   "kind": "other",
+   "side": "r",
+   "layer": "fascia",
+   "chunk": "bundle",
+   "source": "Posterior intermuscular septum of leg.r"
+  },
+  {
+   "prim": "thoracolumbar_fascia__l",
+   "id": "thoracolumbar_fascia",
+   "kind": "catalog",
+   "side": "l",
+   "layer": "fascia",
+   "chunk": "bundle",
+   "source": "Posterior layer of thoracolumbar fascia.l"
+  },
+  {
+   "prim": "thoracolumbar_fascia__r",
+   "id": "thoracolumbar_fascia",
+   "kind": "catalog",
+   "side": "r",
+   "layer": "fascia",
+   "chunk": "bundle",
+   "source": "Posterior layer of thoracolumbar fascia.r"
+  },
+  {
+   "prim": "za_procerus_muscle__l",
+   "id": "za_procerus_muscle",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Procerus muscle.l"
+  },
+  {
+   "prim": "za_procerus_muscle__r",
+   "id": "za_procerus_muscle",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Procerus muscle.r"
+  },
+  {
+   "prim": "za_pronator_quadratus__l",
+   "id": "za_pronator_quadratus",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "upper-limb",
+   "source": "Pronator quadratus.l"
+  },
+  {
+   "prim": "za_pronator_quadratus__r",
+   "id": "za_pronator_quadratus",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "upper-limb",
+   "source": "Pronator quadratus.r"
+  },
+  {
+   "prim": "psoas_major__l",
+   "id": "psoas_major",
+   "kind": "catalog",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "trunk",
+   "source": "Psoas major.l"
+  },
+  {
+   "prim": "psoas_major__r",
+   "id": "psoas_major",
+   "kind": "catalog",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "trunk",
+   "source": "Psoas major.r"
+  },
+  {
+   "prim": "za_pubo_analis_muscle__l",
+   "id": "za_pubo_analis_muscle",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "Pubo-analis muscle.l"
+  },
+  {
+   "prim": "za_pubo_analis_muscle__r",
+   "id": "za_pubo_analis_muscle",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "Pubo-analis muscle.r"
+  },
+  {
+   "prim": "levator_ani__l__pubococcygeus_muscle",
+   "id": "levator_ani",
+   "kind": "catalog",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "Pubococcygeus muscle.l"
+  },
+  {
+   "prim": "levator_ani__r__pubococcygeus_muscle",
+   "id": "levator_ani",
+   "kind": "catalog",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "Pubococcygeus muscle.r"
+  },
+  {
+   "prim": "za_pyramidalis_muscle__l",
+   "id": "za_pyramidalis_muscle",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "Pyramidalis muscle.l"
+  },
+  {
+   "prim": "za_pyramidalis_muscle__r",
+   "id": "za_pyramidalis_muscle",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "Pyramidalis muscle.r"
+  },
+  {
+   "prim": "za_quadratus_femoris_muscle__l",
+   "id": "za_quadratus_femoris_muscle",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "Quadratus femoris muscle.l"
+  },
+  {
+   "prim": "za_quadratus_femoris_muscle__r",
+   "id": "za_quadratus_femoris_muscle",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "Quadratus femoris muscle.r"
+  },
+  {
+   "prim": "quadratus_lumborum__l",
+   "id": "quadratus_lumborum",
+   "kind": "catalog",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "trunk",
+   "source": "Quadratus lumborum muscle.l"
+  },
+  {
+   "prim": "quadratus_lumborum__r",
+   "id": "quadratus_lumborum",
+   "kind": "catalog",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "trunk",
+   "source": "Quadratus lumborum muscle.r"
+  },
+  {
+   "prim": "za_quadratus_plantae_muscle__l",
+   "id": "za_quadratus_plantae_muscle",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "Quadratus plantae muscle.l"
+  },
+  {
+   "prim": "za_quadratus_plantae_muscle__r",
+   "id": "za_quadratus_plantae_muscle",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "Quadratus plantae muscle.r"
+  },
+  {
+   "prim": "flexor_digitorum_superficialis__l__radial_head_of_flexor_digitorum_superficialis",
+   "id": "flexor_digitorum_superficialis",
+   "kind": "catalog",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "upper-limb",
+   "source": "Radial head of flexor digitorum superficialis.l"
+  },
+  {
+   "prim": "flexor_digitorum_superficialis__r__radial_head_of_flexor_digitorum_superficialis",
+   "id": "flexor_digitorum_superficialis",
+   "kind": "catalog",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "upper-limb",
+   "source": "Radial head of flexor digitorum superficialis.r"
+  },
+  {
+   "prim": "rectus_abdominis__l",
+   "id": "rectus_abdominis",
+   "kind": "catalog",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "trunk",
+   "source": "Rectus abdominis muscle.l"
+  },
+  {
+   "prim": "rectus_abdominis__r",
+   "id": "rectus_abdominis",
+   "kind": "catalog",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "trunk",
+   "source": "Rectus abdominis muscle.r"
+  },
+  {
+   "prim": "za_rectus_anterior_capitis_muscle__l",
+   "id": "za_rectus_anterior_capitis_muscle",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Rectus anterior capitis muscle.l"
+  },
+  {
+   "prim": "za_rectus_anterior_capitis_muscle__r",
+   "id": "za_rectus_anterior_capitis_muscle",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Rectus anterior capitis muscle.r"
+  },
+  {
+   "prim": "rectus_femoris__l",
+   "id": "rectus_femoris",
+   "kind": "catalog",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "Rectus femoris muscle.l"
+  },
+  {
+   "prim": "rectus_femoris__r",
+   "id": "rectus_femoris",
+   "kind": "catalog",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "Rectus femoris muscle.r"
+  },
+  {
+   "prim": "za_rectus_lateralis_capitis_muscle__l",
+   "id": "za_rectus_lateralis_capitis_muscle",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Rectus lateralis capitis muscle.l"
+  },
+  {
+   "prim": "za_rectus_lateralis_capitis_muscle__r",
+   "id": "za_rectus_lateralis_capitis_muscle",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Rectus lateralis capitis muscle.r"
+  },
+  {
+   "prim": "za_rectus_posterior_major_capitis_muscle__l",
+   "id": "za_rectus_posterior_major_capitis_muscle",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Rectus posterior major capitis muscle.l"
+  },
+  {
+   "prim": "za_rectus_posterior_major_capitis_muscle__r",
+   "id": "za_rectus_posterior_major_capitis_muscle",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Rectus posterior major capitis muscle.r"
+  },
+  {
+   "prim": "za_rectus_posterior_minor_capitis_muscle__l",
+   "id": "za_rectus_posterior_minor_capitis_muscle",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Rectus posterior minor capitis muscle.l"
+  },
+  {
+   "prim": "za_rectus_posterior_minor_capitis_muscle__r",
+   "id": "za_rectus_posterior_minor_capitis_muscle",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Rectus posterior minor capitis muscle.r"
+  },
+  {
+   "prim": "rhomboid_major__l",
+   "id": "rhomboid_major",
+   "kind": "catalog",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "trunk",
+   "source": "Rhomboid major muscle.l"
+  },
+  {
+   "prim": "rhomboid_major__r",
+   "id": "rhomboid_major",
+   "kind": "catalog",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "trunk",
+   "source": "Rhomboid major muscle.r"
+  },
+  {
+   "prim": "rhomboid_minor__l",
+   "id": "rhomboid_minor",
+   "kind": "catalog",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "trunk",
+   "source": "Rhomboid minor muscle.l"
+  },
+  {
+   "prim": "rhomboid_minor__r",
+   "id": "rhomboid_minor",
+   "kind": "catalog",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "trunk",
+   "source": "Rhomboid minor muscle.r"
+  },
+  {
+   "prim": "za_risorius_muscle__l",
+   "id": "za_risorius_muscle",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Risorius muscle.l"
+  },
+  {
+   "prim": "za_risorius_muscle__r",
+   "id": "za_risorius_muscle",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Risorius muscle.r"
+  },
+  {
+   "prim": "za_rotatores__l",
+   "id": "za_rotatores",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "trunk",
+   "source": "Rotatores.l"
+  },
+  {
+   "prim": "za_rotatores__r",
+   "id": "za_rotatores",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "trunk",
+   "source": "Rotatores.r"
+  },
+  {
+   "prim": "sartorius__l",
+   "id": "sartorius",
+   "kind": "catalog",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "Sartorius muscle.l"
+  },
+  {
+   "prim": "sartorius__r",
+   "id": "sartorius",
+   "kind": "catalog",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "Sartorius muscle.r"
+  },
+  {
+   "prim": "scalenus_anterior__l",
+   "id": "scalenus_anterior",
+   "kind": "catalog",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Scalenus anterior muscle.l"
+  },
+  {
+   "prim": "scalenus_anterior__r",
+   "id": "scalenus_anterior",
+   "kind": "catalog",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Scalenus anterior muscle.r"
+  },
+  {
+   "prim": "za_scalenus_medius_muscle__l",
+   "id": "za_scalenus_medius_muscle",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Scalenus medius muscle.l"
+  },
+  {
+   "prim": "za_scalenus_medius_muscle__r",
+   "id": "za_scalenus_medius_muscle",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Scalenus medius muscle.r"
+  },
+  {
+   "prim": "za_scalenus_posterior_muscle__l",
+   "id": "za_scalenus_posterior_muscle",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Scalenus posterior muscle.l"
+  },
+  {
+   "prim": "za_scalenus_posterior_muscle__r",
+   "id": "za_scalenus_posterior_muscle",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Scalenus posterior muscle.r"
+  },
+  {
+   "prim": "deltoid__l__scapular_spinal_part_of_deltoid_muscle",
+   "id": "deltoid",
+   "kind": "catalog",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "trunk",
+   "source": "Scapular spinal part of deltoid muscle.l"
+  },
+  {
+   "prim": "deltoid__r__scapular_spinal_part_of_deltoid_muscle",
+   "id": "deltoid",
+   "kind": "catalog",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "trunk",
+   "source": "Scapular spinal part of deltoid muscle.r"
+  },
+  {
+   "prim": "semimembranosus__l",
+   "id": "semimembranosus",
+   "kind": "catalog",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "Semimembranosus muscle.l"
+  },
+  {
+   "prim": "semimembranosus__r",
+   "id": "semimembranosus",
+   "kind": "catalog",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "Semimembranosus muscle.r"
+  },
+  {
+   "prim": "za_semispinalis_colli_muscle__l",
+   "id": "za_semispinalis_colli_muscle",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Semispinalis colli muscle.l"
+  },
+  {
+   "prim": "za_semispinalis_colli_muscle__r",
+   "id": "za_semispinalis_colli_muscle",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Semispinalis colli muscle.r"
+  },
+  {
+   "prim": "za_semispinalis_thoracis_muscle__l",
+   "id": "za_semispinalis_thoracis_muscle",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "trunk",
+   "source": "Semispinalis thoracis muscle.l"
+  },
+  {
+   "prim": "za_semispinalis_thoracis_muscle__r",
+   "id": "za_semispinalis_thoracis_muscle",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "trunk",
+   "source": "Semispinalis thoracis muscle.r"
+  },
+  {
+   "prim": "semitendinosus__l",
+   "id": "semitendinosus",
+   "kind": "catalog",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "Semitendinosus muscle.l"
+  },
+  {
+   "prim": "semitendinosus__r",
+   "id": "semitendinosus",
+   "kind": "catalog",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "Semitendinosus muscle.r"
+  },
+  {
+   "prim": "serratus_anterior__l",
+   "id": "serratus_anterior",
+   "kind": "catalog",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "trunk",
+   "source": "Serratus anterior muscle.l"
+  },
+  {
+   "prim": "serratus_anterior__r",
+   "id": "serratus_anterior",
+   "kind": "catalog",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "trunk",
+   "source": "Serratus anterior muscle.r"
+  },
+  {
+   "prim": "za_serratus_posterior_inferior_muscle__l",
+   "id": "za_serratus_posterior_inferior_muscle",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "trunk",
+   "source": "Serratus posterior inferior muscle.l"
+  },
+  {
+   "prim": "za_serratus_posterior_inferior_muscle__r",
+   "id": "za_serratus_posterior_inferior_muscle",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "trunk",
+   "source": "Serratus posterior inferior muscle.r"
+  },
+  {
+   "prim": "za_serratus_posterior_superior_muscle__l",
+   "id": "za_serratus_posterior_superior_muscle",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "trunk",
+   "source": "Serratus posterior superior muscle.l"
+  },
+  {
+   "prim": "za_serratus_posterior_superior_muscle__r",
+   "id": "za_serratus_posterior_superior_muscle",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "trunk",
+   "source": "Serratus posterior superior muscle.r"
+  },
+  {
+   "prim": "biceps_brachii__l__short_head_of_biceps_brachii",
+   "id": "biceps_brachii",
+   "kind": "catalog",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "trunk",
+   "source": "Short head of biceps brachii.l"
+  },
+  {
+   "prim": "biceps_brachii__r__short_head_of_biceps_brachii",
+   "id": "biceps_brachii",
+   "kind": "catalog",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "trunk",
+   "source": "Short head of biceps brachii.r"
+  },
+  {
+   "prim": "biceps_femoris__l__short_head_of_biceps_femoris",
+   "id": "biceps_femoris",
+   "kind": "catalog",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "Short head of biceps femoris.l"
+  },
+  {
+   "prim": "biceps_femoris__r__short_head_of_biceps_femoris",
+   "id": "biceps_femoris",
+   "kind": "catalog",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "Short head of biceps femoris.r"
+  },
+  {
+   "prim": "soleus__l",
+   "id": "soleus",
+   "kind": "catalog",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "Soleus muscle.l"
+  },
+  {
+   "prim": "soleus__r",
+   "id": "soleus",
+   "kind": "catalog",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "Soleus muscle.r"
+  },
+  {
+   "prim": "erector_spinae__l__spinalis_capitis_muscle",
+   "id": "erector_spinae",
+   "kind": "catalog",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Spinalis capitis muscle.l"
+  },
+  {
+   "prim": "erector_spinae__r__spinalis_capitis_muscle",
+   "id": "erector_spinae",
+   "kind": "catalog",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Spinalis capitis muscle.r"
+  },
+  {
+   "prim": "erector_spinae__l__spinalis_colli_muscle",
+   "id": "erector_spinae",
+   "kind": "catalog",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Spinalis colli muscle.l"
+  },
+  {
+   "prim": "erector_spinae__r__spinalis_colli_muscle",
+   "id": "erector_spinae",
+   "kind": "catalog",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Spinalis colli muscle.r"
+  },
+  {
+   "prim": "erector_spinae__l__spinalis_thoracis_muscle",
+   "id": "erector_spinae",
+   "kind": "catalog",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "trunk",
+   "source": "Spinalis thoracis muscle.l"
+  },
+  {
+   "prim": "erector_spinae__r__spinalis_thoracis_muscle",
+   "id": "erector_spinae",
+   "kind": "catalog",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "trunk",
+   "source": "Spinalis thoracis muscle.r"
+  },
+  {
+   "prim": "splenius_capitis__l",
+   "id": "splenius_capitis",
+   "kind": "catalog",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Splenius capitis muscle.l"
+  },
+  {
+   "prim": "splenius_capitis__r",
+   "id": "splenius_capitis",
+   "kind": "catalog",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Splenius capitis muscle.r"
+  },
+  {
+   "prim": "splenius_cervicis__l",
+   "id": "splenius_cervicis",
+   "kind": "catalog",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "trunk",
+   "source": "Splenius colli muscle.l"
+  },
+  {
+   "prim": "splenius_cervicis__r",
+   "id": "splenius_cervicis",
+   "kind": "catalog",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "trunk",
+   "source": "Splenius colli muscle.r"
+  },
+  {
+   "prim": "sternocleidomastoid__l",
+   "id": "sternocleidomastoid",
+   "kind": "catalog",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Sternocleidomastoid muscle.l"
+  },
+  {
+   "prim": "sternocleidomastoid__r",
+   "id": "sternocleidomastoid",
+   "kind": "catalog",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Sternocleidomastoid muscle.r"
+  },
+  {
+   "prim": "pectoralis_major__l__sternocostal_head_of_pectoralis_major_muscle",
+   "id": "pectoralis_major",
+   "kind": "catalog",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "trunk",
+   "source": "Sternocostal head of pectoralis major muscle.l"
+  },
+  {
+   "prim": "pectoralis_major__r__sternocostal_head_of_pectoralis_major_muscle",
+   "id": "pectoralis_major",
+   "kind": "catalog",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "trunk",
+   "source": "Sternocostal head of pectoralis major muscle.r"
+  },
+  {
+   "prim": "za_sternohyoid_muscle__l",
+   "id": "za_sternohyoid_muscle",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Sternohyoid muscle.l"
+  },
+  {
+   "prim": "za_sternohyoid_muscle__r",
+   "id": "za_sternohyoid_muscle",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Sternohyoid muscle.r"
+  },
+  {
+   "prim": "za_sternothyroid_muscle__l",
+   "id": "za_sternothyroid_muscle",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "trunk",
+   "source": "Sternothyroid muscle.l"
+  },
+  {
+   "prim": "za_sternothyroid_muscle__r",
+   "id": "za_sternothyroid_muscle",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "trunk",
+   "source": "Sternothyroid muscle.r"
+  },
+  {
+   "prim": "za_straight_part_of_cricothyroid_muscle__l",
+   "id": "za_straight_part_of_cricothyroid_muscle",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Straight part of cricothyroid muscle.l"
+  },
+  {
+   "prim": "za_straight_part_of_cricothyroid_muscle__r",
+   "id": "za_straight_part_of_cricothyroid_muscle",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Straight part of cricothyroid muscle.r"
+  },
+  {
+   "prim": "za_stylohyoid_muscle__l",
+   "id": "za_stylohyoid_muscle",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Stylohyoid muscle.l"
+  },
+  {
+   "prim": "za_stylohyoid_muscle__r",
+   "id": "za_stylohyoid_muscle",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Stylohyoid muscle.r"
+  },
+  {
+   "prim": "za_stylopharyngeus_muscle__l",
+   "id": "za_stylopharyngeus_muscle",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Stylopharyngeus muscle.l"
+  },
+  {
+   "prim": "za_stylopharyngeus_muscle__r",
+   "id": "za_stylopharyngeus_muscle",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Stylopharyngeus muscle.r"
+  },
+  {
+   "prim": "za_subclavius_muscle__l",
+   "id": "za_subclavius_muscle",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "trunk",
+   "source": "Subclavius muscle.l"
+  },
+  {
+   "prim": "za_subclavius_muscle__r",
+   "id": "za_subclavius_muscle",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "trunk",
+   "source": "Subclavius muscle.r"
+  },
+  {
+   "prim": "subscapularis__l",
+   "id": "subscapularis",
+   "kind": "catalog",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "trunk",
+   "source": "Subscapularis muscle.l"
+  },
+  {
+   "prim": "subscapularis__r",
+   "id": "subscapularis",
+   "kind": "catalog",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "trunk",
+   "source": "Subscapularis muscle.r"
+  },
+  {
+   "prim": "za_superficial_head_of_flexor_pollicis_brevis__l",
+   "id": "za_superficial_head_of_flexor_pollicis_brevis",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "upper-limb",
+   "source": "Superficial head of flexor pollicis brevis.l"
+  },
+  {
+   "prim": "za_superficial_head_of_flexor_pollicis_brevis__r",
+   "id": "za_superficial_head_of_flexor_pollicis_brevis",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "upper-limb",
+   "source": "Superficial head of flexor pollicis brevis.r"
+  },
+  {
+   "prim": "pronator_teres__l__superficial_head_of_pronator_teres",
+   "id": "pronator_teres",
+   "kind": "catalog",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "upper-limb",
+   "source": "Superficial head of pronator teres.l"
+  },
+  {
+   "prim": "pronator_teres__r__superficial_head_of_pronator_teres",
+   "id": "pronator_teres",
+   "kind": "catalog",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "upper-limb",
+   "source": "Superficial head of pronator teres.r"
+  },
+  {
+   "prim": "za_superficial_investing_cervical_fascia__l",
+   "id": "za_superficial_investing_cervical_fascia",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Superficial investing cervical fascia.l"
+  },
+  {
+   "prim": "za_superficial_investing_cervical_fascia__r",
+   "id": "za_superficial_investing_cervical_fascia",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Superficial investing cervical fascia.r"
+  },
+  {
+   "prim": "za_superficial_layer_of_temporal_fascia__l",
+   "id": "za_superficial_layer_of_temporal_fascia",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Superficial layer of temporal fascia.l"
+  },
+  {
+   "prim": "za_superficial_layer_of_temporal_fascia__r",
+   "id": "za_superficial_layer_of_temporal_fascia",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Superficial layer of temporal fascia.r"
+  },
+  {
+   "prim": "za_superficial_part_of_masseter__l",
+   "id": "za_superficial_part_of_masseter",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Superficial part of masseter.l"
+  },
+  {
+   "prim": "za_superficial_part_of_masseter__r",
+   "id": "za_superficial_part_of_masseter",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Superficial part of masseter.r"
+  },
+  {
+   "prim": "za_superficial_transverse_metacarpal_ligament__l",
+   "id": "za_superficial_transverse_metacarpal_ligament",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "upper-limb",
+   "source": "Superficial transverse metacarpal ligament.l"
+  },
+  {
+   "prim": "za_superficial_transverse_metacarpal_ligament__r",
+   "id": "za_superficial_transverse_metacarpal_ligament",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "upper-limb",
+   "source": "Superficial transverse metacarpal ligament.r"
+  },
+  {
+   "prim": "za_superficial_transverse_metatarsal_ligament__l",
+   "id": "za_superficial_transverse_metatarsal_ligament",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "Superficial transverse metatarsal ligament.l"
+  },
+  {
+   "prim": "za_superficial_transverse_metatarsal_ligament__r",
+   "id": "za_superficial_transverse_metatarsal_ligament",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "Superficial transverse metatarsal ligament.r"
+  },
+  {
+   "prim": "za_superior_extensor_retinaculum_of_ankle__l",
+   "id": "za_superior_extensor_retinaculum_of_ankle",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "Superior extensor retinaculum of ankle.l"
+  },
+  {
+   "prim": "za_superior_extensor_retinaculum_of_ankle__r",
+   "id": "za_superior_extensor_retinaculum_of_ankle",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "Superior extensor retinaculum of ankle.r"
+  },
+  {
+   "prim": "za_superior_fibular_retinaculum__l",
+   "id": "za_superior_fibular_retinaculum",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "Superior fibular retinaculum.l"
+  },
+  {
+   "prim": "za_superior_fibular_retinaculum__r",
+   "id": "za_superior_fibular_retinaculum",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "Superior fibular retinaculum.r"
+  },
+  {
+   "prim": "za_superior_gemellus_muscle__l",
+   "id": "za_superior_gemellus_muscle",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "Superior gemellus muscle.l"
+  },
+  {
+   "prim": "za_superior_gemellus_muscle__r",
+   "id": "za_superior_gemellus_muscle",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "Superior gemellus muscle.r"
+  },
+  {
+   "prim": "za_superior_head_of_lateral_pterygoid_muscle__l",
+   "id": "za_superior_head_of_lateral_pterygoid_muscle",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Superior head of lateral pterygoid muscle.l"
+  },
+  {
+   "prim": "za_superior_head_of_lateral_pterygoid_muscle__r",
+   "id": "za_superior_head_of_lateral_pterygoid_muscle",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Superior head of lateral pterygoid muscle.r"
+  },
+  {
+   "prim": "za_superior_oblique_muscle__l",
+   "id": "za_superior_oblique_muscle",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Superior oblique muscle.l"
+  },
+  {
+   "prim": "za_superior_oblique_muscle__r",
+   "id": "za_superior_oblique_muscle",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Superior oblique muscle.r"
+  },
+  {
+   "prim": "za_superior_pharyngeal_constrictor__l",
+   "id": "za_superior_pharyngeal_constrictor",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Superior pharyngeal constrictor.l"
+  },
+  {
+   "prim": "za_superior_pharyngeal_constrictor__r",
+   "id": "za_superior_pharyngeal_constrictor",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Superior pharyngeal constrictor.r"
+  },
+  {
+   "prim": "za_superior_rectus_muscle__l",
+   "id": "za_superior_rectus_muscle",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Superior rectus muscle.l"
+  },
+  {
+   "prim": "za_superior_rectus_muscle__r",
+   "id": "za_superior_rectus_muscle",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Superior rectus muscle.r"
+  },
+  {
+   "prim": "za_superior_tarsus__l",
+   "id": "za_superior_tarsus",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Superior tarsus.l"
+  },
+  {
+   "prim": "za_superior_tarsus__r",
+   "id": "za_superior_tarsus",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Superior tarsus.r"
+  },
+  {
+   "prim": "supinator__l",
+   "id": "supinator",
+   "kind": "catalog",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "upper-limb",
+   "source": "Supinator.l"
+  },
+  {
+   "prim": "supinator__r",
+   "id": "supinator",
+   "kind": "catalog",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "upper-limb",
+   "source": "Supinator.r"
+  },
+  {
+   "prim": "supraspinatus__l",
+   "id": "supraspinatus",
+   "kind": "catalog",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "trunk",
+   "source": "Supraspinatus muscle.l"
+  },
+  {
+   "prim": "supraspinatus__r",
+   "id": "supraspinatus",
+   "kind": "catalog",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "trunk",
+   "source": "Supraspinatus muscle.r"
+  },
+  {
+   "prim": "za_temporalis_muscle__l",
+   "id": "za_temporalis_muscle",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Temporalis muscle.l"
+  },
+  {
+   "prim": "za_temporalis_muscle__r",
+   "id": "za_temporalis_muscle",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Temporalis muscle.r"
+  },
+  {
+   "prim": "za_temporoparietalis_muscle__l",
+   "id": "za_temporoparietalis_muscle",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Temporoparietalis muscle.l"
+  },
+  {
+   "prim": "za_temporoparietalis_muscle__r",
+   "id": "za_temporoparietalis_muscle",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Temporoparietalis muscle.r"
+  },
+  {
+   "prim": "za_tendinous_arch_of_levator_ani__l",
+   "id": "za_tendinous_arch_of_levator_ani",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "Tendinous arch of levator ani.l"
+  },
+  {
+   "prim": "za_tendinous_arch_of_levator_ani__r",
+   "id": "za_tendinous_arch_of_levator_ani",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "Tendinous arch of levator ani.r"
+  },
+  {
+   "prim": "extensor_digitorum_longus__l__tendon_of_extensor_digitorum_longus",
+   "id": "extensor_digitorum_longus",
+   "kind": "catalog",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "Tendon of extensor digitorum longus.l"
+  },
+  {
+   "prim": "extensor_digitorum_longus__r__tendon_of_extensor_digitorum_longus",
+   "id": "extensor_digitorum_longus",
+   "kind": "catalog",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "Tendon of extensor digitorum longus.r"
+  },
+  {
+   "prim": "tensor_fasciae_latae__l",
+   "id": "tensor_fasciae_latae",
+   "kind": "catalog",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "Tensor fasciae latae.l"
+  },
+  {
+   "prim": "tensor_fasciae_latae__r",
+   "id": "tensor_fasciae_latae",
+   "kind": "catalog",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "Tensor fasciae latae.r"
+  },
+  {
+   "prim": "teres_major__l",
+   "id": "teres_major",
+   "kind": "catalog",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "trunk",
+   "source": "Teres major muscle.l"
+  },
+  {
+   "prim": "teres_major__r",
+   "id": "teres_major",
+   "kind": "catalog",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "trunk",
+   "source": "Teres major muscle.r"
+  },
+  {
+   "prim": "teres_minor__l",
+   "id": "teres_minor",
+   "kind": "catalog",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "trunk",
+   "source": "Teres minor muscle.l"
+  },
+  {
+   "prim": "teres_minor__r",
+   "id": "teres_minor",
+   "kind": "catalog",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "trunk",
+   "source": "Teres minor muscle.r"
+  },
+  {
+   "prim": "za_thyro_epiglottic_part_of_thyro_arytenoid_muscle__l",
+   "id": "za_thyro_epiglottic_part_of_thyro_arytenoid_muscle",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Thyro-epiglottic part of thyro-arytenoid muscle.l"
+  },
+  {
+   "prim": "za_thyro_epiglottic_part_of_thyro_arytenoid_muscle__r",
+   "id": "za_thyro_epiglottic_part_of_thyro_arytenoid_muscle",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Thyro-epiglottic part of thyro-arytenoid muscle.r"
+  },
+  {
+   "prim": "za_thyrohyoid_muscle__l",
+   "id": "za_thyrohyoid_muscle",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Thyrohyoid muscle.l"
+  },
+  {
+   "prim": "za_thyrohyoid_muscle__r",
+   "id": "za_thyrohyoid_muscle",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Thyrohyoid muscle.r"
+  },
+  {
+   "prim": "tibialis_anterior__l",
+   "id": "tibialis_anterior",
+   "kind": "catalog",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "Tibialis anterior muscle.l"
+  },
+  {
+   "prim": "tibialis_anterior__r",
+   "id": "tibialis_anterior",
+   "kind": "catalog",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "Tibialis anterior muscle.r"
+  },
+  {
+   "prim": "tibialis_posterior__l",
+   "id": "tibialis_posterior",
+   "kind": "catalog",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "Tibialis posterior muscle.l"
+  },
+  {
+   "prim": "tibialis_posterior__r",
+   "id": "tibialis_posterior",
+   "kind": "catalog",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "Tibialis posterior muscle.r"
+  },
+  {
+   "prim": "za_transversalis_fascia",
+   "id": "za_transversalis_fascia",
+   "kind": "other",
+   "side": "",
+   "layer": "fascia",
+   "chunk": "bundle",
+   "source": "Transversalis fascia"
+  },
+  {
+   "prim": "za_transverse_arytenoid_muscle",
+   "id": "za_transverse_arytenoid_muscle",
+   "kind": "other",
+   "side": "",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Transverse arytenoid muscle"
+  },
+  {
+   "prim": "za_transverse_head_of_adductor_hallucis__l",
+   "id": "za_transverse_head_of_adductor_hallucis",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "Transverse head of adductor hallucis.l"
+  },
+  {
+   "prim": "za_transverse_head_of_adductor_hallucis__r",
+   "id": "za_transverse_head_of_adductor_hallucis",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "Transverse head of adductor hallucis.r"
+  },
+  {
+   "prim": "za_transverse_head_of_adductor_pollicis__l",
+   "id": "za_transverse_head_of_adductor_pollicis",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "upper-limb",
+   "source": "Transverse head of adductor pollicis.l"
+  },
+  {
+   "prim": "za_transverse_head_of_adductor_pollicis__r",
+   "id": "za_transverse_head_of_adductor_pollicis",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "upper-limb",
+   "source": "Transverse head of adductor pollicis.r"
+  },
+  {
+   "prim": "za_transverse_intermuscular_septum_of_leg__l",
+   "id": "za_transverse_intermuscular_septum_of_leg",
+   "kind": "other",
+   "side": "l",
+   "layer": "fascia",
+   "chunk": "bundle",
+   "source": "Transverse intermuscular septum of leg.l"
+  },
+  {
+   "prim": "za_transverse_intermuscular_septum_of_leg__r",
+   "id": "za_transverse_intermuscular_septum_of_leg",
+   "kind": "other",
+   "side": "r",
+   "layer": "fascia",
+   "chunk": "bundle",
+   "source": "Transverse intermuscular septum of leg.r"
+  },
+  {
+   "prim": "trapezius__l__transverse_part_of_trapezius_muscle",
+   "id": "trapezius",
+   "kind": "catalog",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "trunk",
+   "source": "Transverse part of trapezius muscle.l"
+  },
+  {
+   "prim": "trapezius__r__transverse_part_of_trapezius_muscle",
+   "id": "trapezius",
+   "kind": "catalog",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "trunk",
+   "source": "Transverse part of trapezius muscle.r"
+  },
+  {
+   "prim": "transversus_abdominis__l",
+   "id": "transversus_abdominis",
+   "kind": "catalog",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "trunk",
+   "source": "Transversus abdominis muscle.l"
+  },
+  {
+   "prim": "transversus_abdominis__r",
+   "id": "transversus_abdominis",
+   "kind": "catalog",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "trunk",
+   "source": "Transversus abdominis muscle.r"
+  },
+  {
+   "prim": "za_transversus_thoracis_muscle__l",
+   "id": "za_transversus_thoracis_muscle",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "trunk",
+   "source": "Transversus thoracis muscle.l"
+  },
+  {
+   "prim": "za_transversus_thoracis_muscle__r",
+   "id": "za_transversus_thoracis_muscle",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "trunk",
+   "source": "Transversus thoracis muscle.r"
+  },
+  {
+   "prim": "za_trochlea_of_superior_oblique_muscle__l",
+   "id": "za_trochlea_of_superior_oblique_muscle",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Trochlea of superior oblique muscle.l"
+  },
+  {
+   "prim": "za_trochlea_of_superior_oblique_muscle__r",
+   "id": "za_trochlea_of_superior_oblique_muscle",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Trochlea of superior oblique muscle.r"
+  },
+  {
+   "prim": "za_ulnar_head_of_extensor_carpi_ulnaris__l",
+   "id": "za_ulnar_head_of_extensor_carpi_ulnaris",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "upper-limb",
+   "source": "Ulnar head of extensor carpi ulnaris.l"
+  },
+  {
+   "prim": "za_ulnar_head_of_extensor_carpi_ulnaris__r",
+   "id": "za_ulnar_head_of_extensor_carpi_ulnaris",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "upper-limb",
+   "source": "Ulnar head of extensor carpi ulnaris.r"
+  },
+  {
+   "prim": "za_ulnar_head_of_flexor_carpi_ulnaris__l",
+   "id": "za_ulnar_head_of_flexor_carpi_ulnaris",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "upper-limb",
+   "source": "Ulnar head of flexor carpi ulnaris.l"
+  },
+  {
+   "prim": "za_ulnar_head_of_flexor_carpi_ulnaris__r",
+   "id": "za_ulnar_head_of_flexor_carpi_ulnaris",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "upper-limb",
+   "source": "Ulnar head of flexor carpi ulnaris.r"
+  },
+  {
+   "prim": "za_vastus_intermedius_muscle__l",
+   "id": "za_vastus_intermedius_muscle",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "Vastus intermedius muscle.l"
+  },
+  {
+   "prim": "za_vastus_intermedius_muscle__r",
+   "id": "za_vastus_intermedius_muscle",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "Vastus intermedius muscle.r"
+  },
+  {
+   "prim": "vastus_lateralis__l",
+   "id": "vastus_lateralis",
+   "kind": "catalog",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "Vastus lateralis muscle.l"
+  },
+  {
+   "prim": "vastus_lateralis__r",
+   "id": "vastus_lateralis",
+   "kind": "catalog",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "Vastus lateralis muscle.r"
+  },
+  {
+   "prim": "vastus_medialis__l",
+   "id": "vastus_medialis",
+   "kind": "catalog",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "Vastus medialis muscle.l"
+  },
+  {
+   "prim": "vastus_medialis__r",
+   "id": "vastus_medialis",
+   "kind": "catalog",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "lower-limb",
+   "source": "Vastus medialis muscle.r"
+  },
+  {
+   "prim": "za_ventral_parts_of_lateral_intertransversarii_lumborum_muscles__l",
+   "id": "za_ventral_parts_of_lateral_intertransversarii_lumborum_muscles",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "trunk",
+   "source": "Ventral parts of lateral intertransversarii lumborum muscles.l"
+  },
+  {
+   "prim": "za_ventral_parts_of_lateral_intertransversarii_lumborum_muscles__r",
+   "id": "za_ventral_parts_of_lateral_intertransversarii_lumborum_muscles",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "trunk",
+   "source": "Ventral parts of lateral intertransversarii lumborum muscles.r"
+  },
+  {
+   "prim": "za_zygomaticus_major_muscle__l",
+   "id": "za_zygomaticus_major_muscle",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Zygomaticus major muscle.l"
+  },
+  {
+   "prim": "za_zygomaticus_major_muscle__r",
+   "id": "za_zygomaticus_major_muscle",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Zygomaticus major muscle.r"
+  },
+  {
+   "prim": "za_zygomaticus_minor_muscle__l",
+   "id": "za_zygomaticus_minor_muscle",
+   "kind": "other",
+   "side": "l",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Zygomaticus minor muscle.l"
+  },
+  {
+   "prim": "za_zygomaticus_minor_muscle__r",
+   "id": "za_zygomaticus_minor_muscle",
+   "kind": "other",
+   "side": "r",
+   "layer": "muscle",
+   "chunk": "head-neck",
+   "source": "Zygomaticus minor muscle.r"
+  }
+ ]
+}
